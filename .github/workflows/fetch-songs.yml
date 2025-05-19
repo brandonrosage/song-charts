@@ -1,4 +1,4 @@
-name: Fetch Songs from Google Sheets
+name: Fetch songs from 'Brandon songs' GSheet
 
 on:
   schedule:
