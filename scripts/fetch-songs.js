@@ -39,18 +39,18 @@ function toYaml(rows) {
   const objects = body.map(row =>
     Object.fromEntries(header.map((key, i) => [key, row[i] ?? '']))
   );
-  return yaml.dump(objects, { lineWidth: -1 });
+  return {yamlStr: yaml.dump(objects, { lineWidth: -1 }), count: body.length};
 }
 
 async function main() {
   try {
     const auth = await authorize();
     const rows = await fetchSheet(auth);
-    const yamlStr = toYaml(rows);
+    const {yamlStr, count} = toYaml(rows);
 
     fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
     fs.writeFileSync(OUTPUT_PATH, yamlStr, 'utf8');
-    console.log(`Saved ${body.length} records to ${OUTPUT_PATH}`);
+    console.log(`Saved ${count} records to ${OUTPUT_PATH}`);
   } catch (err) {
     console.error('Error:', err);
     process.exit(1);
