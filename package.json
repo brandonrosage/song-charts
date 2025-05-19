@@ -1,0 +1,12 @@
+{
+  "name": "song-charts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch:songs": "node scripts/fetch-songs.js"
+  },
+  "dependencies": {
+    "googleapis": "^124.0.0",
+    "js-yaml": "^4.1.0"
+  }
+}
