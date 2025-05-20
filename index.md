@@ -4,12 +4,13 @@
 
 layout: default
 ---
+
 {% for song in site.data.songs %}
     {% if song['Share in charts'] == 'FALSE' %}
        {% continue %}
     {% else %}
-<article class="position-relative border rounded bg-body p-5 my-5">
-<h1 id="{{ song.Name | url_encode }}"><span class="fw-bolder">{{ song.Name }}</span> <em class="fw-light">({{ song.Key }})</em></h1>
+<article  id="{{ song.Name | url_encode }}" class="position-relative border rounded bg-body p-3 p-md-5 mb-3 mb-md-5">
+<h1><span class="fw-bolder">{{ song.Name }}</span> <em class="fw-light">({{ song.Key }})</em></h1>
 <ul class="list-unstyled d-flex">
 <li class="position-absolute top-0 end-0">
     <a href="#{{ song.Name | url_encode }}" class="d-inline-block icon-link bg-info-subtle p-1" data-bs-toggle="tooltip" data-bs-title="Link to this song">

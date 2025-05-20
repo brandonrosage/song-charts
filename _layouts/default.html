@@ -4,15 +4,58 @@
   <body class="bg-body-tertiary">
     <div class="container">
          <div class="row justify-content-center">
-            <div class="col-8">
+            <div class="col-md-8 col-lg-10 col-xl-8">
+                <div class="py-3 py-md-5">
+                    <h1>Song charts</h1>
+                    <p>The songs below are performed by <a href="http://brandonrosage.com">Brandon Rosage</a> using the appended charts and arrangements.</p>
+                    <div class="d-md-inline-block position-fixed top-0 end-0 z-1 p-3">
+                        <a id="offcanvasOpen" class="btn btn-primary icon-link" href="#tableOfContents" role="button" aria-controls="tableOfContents">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+                            </svg>
+                            <span class="d-none d-md-inline">Table of contents</span>
+                        </a>
+                    </div>
+                </div>
                 {{ content }}
             </div>
          </div>
+    </div>
+    <div data-bs-scroll="true" data-bs-backdrop="false" class="offcanvas offcanvas-end" tabindex="-1" id="tableOfContents" aria-labelledby="Table of contents">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasLabel">Table of contents</h5>
+            <button type="button" id="offcanvasDismiss" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <nav>
+                <ol class="nav flex-column">
+                {% for song in site.data.songs %}
+                    {% if song['Share in charts'] == 'FALSE' %}
+                        {% continue %}
+                    {% else %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="#{{ song.Name | url_encode }}">{{ song.Name }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+                </ol>
+            </nav>
+        </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
     <script>
         const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
         const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+
+        document.addEventListener("DOMContentLoaded", function(){
+            var myOffcanvas = document.getElementById('tableOfContents');
+            var bsOffcanvas = new bootstrap.Offcanvas(myOffcanvas);
+            document.getElementById("offcanvasOpen").addEventListener('click',function (e){
+                e.preventDefault();
+                e.stopPropagation();
+                bsOffcanvas.toggle();
+            });
+        });
     </script>
   </body>
 </html>
