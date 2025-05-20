@@ -12,7 +12,7 @@ layout: default
 <article  id="{{ song.Name | url_encode }}" class="position-relative border rounded bg-body p-3 p-md-5 mb-3 mb-md-5">
 <h1><span class="fw-bolder">{{ song.Name }}</span> <em class="fw-light">({{ song.Key }})</em></h1>
 <ul class="list-unstyled d-flex">
-<li class="position-absolute top-0 end-0">
+<li class="position-absolute d-print-none top-0 end-0">
     <a href="#{{ song.Name | url_encode }}" class="d-inline-block icon-link bg-info-subtle p-1" data-bs-toggle="tooltip" data-bs-title="Link to this song">
         <span>
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
@@ -24,7 +24,7 @@ layout: default
     </a>
 </li>
 {% unless song.Recording == "" %}
-<li class="list-inline-item mr-3">
+<li class="list-inline-item d-print-none mr-3">
     <a href="{{ song.Recording }}" class="d-inline-block" data-bs-toggle="tooltip" data-bs-title="Reference recording on YouTube" target="_blank">
         <span class="d-inline-block rounded-2 bg-danger p-1" style="height:24px"><img src="/assets/img/services/youtube.svg" class="d-block h-100" alt="Reference recording"></span>
         <span class="d-none">Reference recording</span>
@@ -39,7 +39,7 @@ layout: default
 <div class="fs-4 font-monospace">{{ song.Chart | newline_to_br }}</div>
 
 {% unless song.Lyrics == "" %}
-<details class="pt-4">
+<details class="d-print-none pt-4">
 <summary class="fs-4 fw-medium mb-2">Arrangement with lyrics</summary>
 {{ song.Lyrics | newline_to_br }}
 </details>
