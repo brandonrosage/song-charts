@@ -25,11 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+ignore_theme_config: true
 github_username: brandonrosage
 
 # Build settings
-plugins:
-  - jekyll-feed
+# plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -50,3 +51,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  songs:
+    label: songs
+    output: true
+    permalink: /songs/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "songs"
+    values:
+      layout: "song"
