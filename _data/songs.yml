@@ -489,75 +489,107 @@
 - Name: Am I Right (Or Amarillo)
   Key: E
   Chart: |-
-    [Intro]
+    [Int]
     1 5 1 1
 
-    [Verse]
+    [V]
     1 1 4 4
     1 1 5 5
     1 1 4 4
     1 5 1 1
 
-    [Bridge]
+    [V]
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+
+    [Br]
     6- 6- 1 1
     6- 6- 1 1
     6- 6- 1 1
     2 2 5 5*
 
-    [Chorus]
+    [Ch]
     4 4 1 1
     4 4 5 5
     4 5 6- 6-
     4 5 1 1
 
-    [Outro]
+    [Solo]
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+
+    [V]
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+
+    [Br]
+    6- 6- 1 1
+    6- 6- 1 1
+    6- 6- 1 1
+    2 2 5 5*
+
+    [Ch]
+    4 4 1 1
+    4 4 5 5
+    4 5 6- 6-
+    4 5 1 1
+
+    [Out]
     1◆  4◆
     1◆  5/6 7b/7
     1 1 4 4
     1 5 1/7b 6/6b 5*
     1◆
   Lyrics: |-
-    [Verse]
+    [Int]
+
+    [V]
     We started out with good intentions, making love right there in the kitchen
     You and me were getting along just fine
     More than crazy about one another, I was your man, and you were my lover
     Glad that I was yours and you were mine
 
-    [Verse]
+    [V]
     For awhile, I could do no wrong, you laughed at my jokes and you danced to the song
     Not too bad for an Amarillo country boy
     I said if we could just stay together, it could be just like this forever
     Finer things in life we would enjoy
 
-    [Bridge]
+    [Br]
     You told me you thought that I was wrong
     You said our love, it wouldn't last too long
     I don't want to leave you all alone
     So should I stay or should I go back home?
 
-    [Chorus]
+    [Ch]
     Am I right or Amarillo?
     Do I stay here with you or hit the road?
     Am I right or Amarillo?
     I love you, but I can always go back home
 
-    [Solo over Verse]
+    [Solo over V]
 
-    [Verse]
+    [V]
     Now pretty soon it was just like I figured, you told me that you'd reconsidered
     I could stay with you and be your man
     Now it seems there's a brand new problem, country boys learn their lessons when they're taught 'em
     I've learned about as much as I can stand
 
-    [Bridge]
+    [Br]
     Now I'm the one who thinks that I was wrong
     I don't think our love is gonna last too long
     I really, really, really hate to leave you all alone
     But Texas is a-calling me back home
 
-    [Chorus]
+    [Ch]
 
-    [Verse]
+    [Out]
     Now It might be as flat as a pancake, but how much heartache can one man take
     Amarillo, we've been too long apart
     There's no need for me to keep on talking, if I'm a going, I'd better start walking
