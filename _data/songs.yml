@@ -2178,16 +2178,16 @@
   Key: C#
   Chart: |-
     [Int]
-    1 1 7/6 4/5
+    1 1 7-/6- 4/5
 
     [V]
-    1 1 7/6 4/5
+    1 1 7-/6- 4/5
     5 5 5 1
     1 1 1 4
     5 5 5 1
 
     [V]
-    1 1 7/6 4/5
+    1 1 7-/6- 4/5
     5 5 5 1
     1 1 1 4
     5 5 5 1
@@ -2195,7 +2195,7 @@
     ^ modulate up 1/2 step
 
     [Solo]
-    1 1 7/6 4/5
+    1 1 7-/6- 4/5
     5 5 5 1
     1 1 1 4
     5 5 5 1
@@ -2203,13 +2203,13 @@
     ^ modulate up 1/2 step
 
     [V]
-    1 1 7/6 4/5
+    1 1 7-/6- 4/5
     5 5 5 1
     1 1 1 4
     5 5 5 1
 
     [V]
-    1 1 7/6 4/5
+    1 1 7-/6- 4/5
     5 5 5 1
     1 1 1 4
     5 5 5 1
@@ -2231,10 +2231,14 @@
     In anger, unkind words are said that made the teardrops start
     Why can't I free your doubtful mind and melt your cold, cold heart?
 
-    [Modulate up 1/2 step; Solo]
+    [^modulate up 1/2 step]
+    [Solo]
 
-    [Modulate up another 1/2 step; V]
+    [^modulate up another 1/2 step]
     [V]
+
+    [V]
+
     [Tag]
   Recording: https://www.youtube.com/watch?v=Ao9pVX9N5XA
   Date added: ''
@@ -3191,6 +3195,80 @@
   Recording: https://www.youtube.com/watch?v=0985UVQtDyw
   Date added: ''
   Feel: ''
+  Share in charts: 'TRUE'
+- Name: Faded Love
+  Key: A
+  Chart: |-
+    [T/A] (in the key of D)
+    1 1 4 4dim
+    1 1 5 5
+    1 1 4 4
+    1 5 1/1# 2◆
+    ^modulate to key of A
+
+    [V] (in the key of A)
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+
+    [Ch] **4/4 walking bass**
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+    ▾modulate to key of D
+
+    [T/A] (in the key of D)
+    1 1 4 4dim
+    1 1 5 5
+    1 1 4 4
+    1 5 1/1# 2◆
+    ^modulate to key of A
+
+    [V] (in the key of A)
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+
+    [Ch] **4/4 walking bass**
+    1 1 4 4
+    1 1 5 5
+    1 1 4 4
+    1 5 1 1
+
+    [Tag] **4/4 walking bass**
+    1 5 1 1
+  Lyrics: |-
+    [T/A]
+
+    [V]
+    As I look at the letters that you wrote to me
+    It's you that I am thinking of
+    As I read the lines that to me were so sweet
+    I remember our faded love
+
+    [Ch]
+    I miss you, darling, more and more every day
+    As Heaven would miss the stars above
+    With every heartbeat I still think of you
+    And remember our faded love
+
+    [T/A]
+
+    [V]
+    I think of the past and all the pleasures we had
+    As I watch the mating of the dove
+    It was in the springtime that you said goodbye
+    I remember our faded love
+
+    [Ch]
+
+    [Tag]
+  Recording: https://www.youtube.com/watch?v=uUw7lzPAea4
+  Date added: ''
+  Feel: Western swing
   Share in charts: 'TRUE'
 - Name: Fifteen Years Going Up (And One Night Coming Down)
   Key: G
@@ -10147,6 +10225,69 @@
   Recording: https://www.youtube.com/watch?v=C35KWVWwxcc
   Date added: ''
   Feel: 4/4 shuffle
+  Share in charts: 'TRUE'
+- Name: Silver Wings
+  Key: E
+  Chart: |-
+    [Int]
+    1 1 1 1
+
+    [A]
+    1 1 1 1
+    2- 2- 5 5
+    1 1 1 1
+    2- 5 1 1
+
+    [B]
+    2- 5 1/1dim 1
+    2- 2- 2- 5 5◆
+
+    [A]
+    1 1 1 1
+    2- 2- 5 5
+    1 1 1 1
+    2- 5 1 1
+
+    [Solo]
+    1 1 1 1
+    2- 2- 5 5
+    1 1 1 1
+    2- 5 1 1
+
+    [B]
+    2- 5 1/1dim 1
+    2- 2- 2- 5 5◆
+
+    [A]
+    1 1 1 1
+    2- 2- 5 5
+    1 1 1 1
+    2- 5 1 1
+
+    [Tag]
+    2- 5 1 1
+  Lyrics: |-
+    [A]
+    Silver wings, shining in the sunlight
+    Roaring engines headed somewhere in flight
+    They're taking you away and leaving me lonely
+    Silver wings, slowly fading out of sight
+
+    [B]
+    Don't leave me, I cried. Don't take that airplane ride
+    But you locked me out of your mind, and left me standing here behind
+
+    [A]
+
+    [Solo over A]
+
+    [B]
+
+    [A]
+    [Tag]
+  Recording: https://www.youtube.com/watch?v=ONXif7t85yE
+  Date added: ''
+  Feel: ''
   Share in charts: 'TRUE'
 - Name: Sing a Sad Song
   Key: C
