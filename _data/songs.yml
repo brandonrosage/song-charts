@@ -1,4 +1,4 @@
-- lone: A-11
+- Name: A-11
   Key: D
   Chart: |-
     [T/A] 
@@ -59,7 +59,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Ace in the Hole
+- Name: Ace in the Hole
   Key: Bb
   Chart: |-
     [Intro]
@@ -118,7 +118,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: A Dime at a Time
+- Name: A Dime at a Time
   Key: A
   Chart: |-
     [T/A]
@@ -184,7 +184,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Ain't Nothin' Shakin'
+- Name: Ain't Nothin' Shakin'
   Key: E
   Chart: |-
     [Intro]
@@ -234,7 +234,7 @@
   Date added: 7/15/2024
   Feel: Straight
   Share in charts: 'FALSE'
-- lone: All I Want for Christmas is You
+- Name: All I Want for Christmas is You
   Key: G
   Chart: |-
     **mid-tempo 4/4 shuffle**
@@ -275,7 +275,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'FALSE'
-- lone: All My Ex's Live in Texas
+- Name: All My Ex's Live in Texas
   Key: A
   Chart: |-
     [Int]
@@ -346,7 +346,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: Always Late (With Your Kisses)
+- Name: Always Late (With Your Kisses)
   Key: A
   Chart: |-
     [V]
@@ -404,7 +404,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Amarillo by Morning
+- Name: Amarillo by Morning
   Key: D
   Chart: |-
     [Intro]
@@ -486,7 +486,7 @@
   Date added: ''
   Feel: Straight, ballad
   Share in charts: 'TRUE'
-- lone: Am I Right (Or Amarillo)
+- Name: Am I Right (Or Amarillo)
   Key: E
   Chart: |-
     [Int]
@@ -598,7 +598,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'FALSE'
-- lone: An Empty Glass
+- Name: An Empty Glass
   Key: G
   Chart: |-
     [Int]
@@ -670,7 +670,7 @@
   Date added: ''
   Feel: Straight, ballad
   Share in charts: 'TRUE'
-- lone: Another Day, Another Dollar
+- Name: Another Day, Another Dollar
   Key: E
   Chart: |-
     [Int]
@@ -753,7 +753,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Another Place, Another Time
+- Name: Another Place, Another Time
   Key: A
   Chart: |-
     [V]
@@ -811,7 +811,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: Any Old Time (George Strait)
+- Name: Any Old Time (George Strait)
   Key: G
   Chart: |-
     [Intro]
@@ -857,7 +857,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Any Old Time (Wade Ray)
+- Name: Any Old Time (Wade Ray)
   Key: D
   Chart: |-
     [Intro]
@@ -908,7 +908,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Any Way You Want Me (That's How I Will Be)
+- Name: Any Way You Want Me (That's How I Will Be)
   Key: B
   Chart: |-
     [Turnaround]
@@ -950,7 +950,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Apartment No. 9
+- Name: Apartment No. 9
   Key: C
   Chart: |-
     [Int]
@@ -1014,7 +1014,7 @@
   Date added: 5/13/2025
   Feel: Ballad
   Share in charts: 'FALSE'
-- lone: A World So Full of Love
+- Name: A World So Full of Love
   Key: C
   Chart: |-
     [T/A]
@@ -1074,7 +1074,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Baby, Let's Play House
+- Name: Baby, Let's Play House
   Key: E
   Chart: |-
     [Chorus]
@@ -1127,7 +1127,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Baby Steps
+- Name: Baby Steps
   Key: G
   Chart: |-
     [Int]
@@ -1182,7 +1182,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Bartender's Blues
+- Name: Bartender's Blues
   Key: C
   Chart: |-
     1 1 4 2m
@@ -1220,7 +1220,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Before You Go
+- Name: Before You Go
   Key: G
   Chart: |-
     [Turnaround]
@@ -1262,7 +1262,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Begging to You
+- Name: Begging to You
   Key: E
   Chart: |-
     [A]
@@ -1297,7 +1297,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Big City
+- Name: Big City
   Key: G
   Chart: |-
     [T/A]
@@ -1363,7 +1363,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Bloodshot Eyes
+- Name: Bloodshot Eyes
   Key: A
   Chart: |-
     [Int]
@@ -1455,7 +1455,7 @@
   Date added: ''
   Feel: Two-beat, swing
   Share in charts: 'TRUE'
-- lone: Blue Days, Black Nights
+- Name: Blue Days, Black Nights
   Key: A
   Chart: |-
     [Turnaround]
@@ -1499,7 +1499,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Blue Moon
+- Name: Blue Moon
   Key: C
   Chart: |-
     [Int]
@@ -1572,7 +1572,7 @@
   Date added: 5/13/2025
   Feel: Swing
   Share in charts: 'FALSE'
-- lone: Blues for Dixie
+- Name: Blues for Dixie
   Key: Bb
   Chart: |-
     [Int]
@@ -1636,7 +1636,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Borrowed Angel
+- Name: Borrowed Angel
   Key: E
   Chart: |-
     [T/A]
@@ -1700,7 +1700,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Bottom of the Bottle
+- Name: Bottom of the Bottle
   Key: A
   Chart: |-
     [Turnaround]
@@ -1741,7 +1741,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Branded Man
+- Name: Branded Man
   Key: G
   Chart: |-
     [Int]
@@ -1789,7 +1789,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Breakin the Rules
+- Name: Breakin the Rules
   Key: B
   Chart: |-
     [Int]
@@ -1832,7 +1832,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Bright Lights and Blonde Haired Women
+- Name: Bright Lights and Blonde Haired Women
   Key: F
   Chart: |-
     ||:
@@ -1885,7 +1885,7 @@
   Date added: ''
   Feel: 4/4 swing shuffle
   Share in charts: 'TRUE'
-- lone: Buckaroo
+- Name: Buckaroo
   Key: D
   Chart: |-
     [Int]
@@ -1920,7 +1920,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Buck's Polka
+- Name: Buck's Polka
   Key: E
   Chart: |-
     ||:
@@ -1936,7 +1936,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Bud's Bounce
+- Name: Bud's Bounce
   Key: E
   Chart: |-
     [A]
@@ -1964,7 +1964,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Cadillac and Model A
+- Name: Cadillac and Model A
   Key: A
   Chart: |-
     [T/A]
@@ -2039,7 +2039,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Cheated On
+- Name: Cheated On
   Key: G
   Chart: |
     [Int]
@@ -2107,7 +2107,7 @@
   Date added: 5/14/2025
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Close Up the Honky Tonks
+- Name: Close Up the Honky Tonks
   Key: A
   Chart: |-
     [Int]
@@ -2174,7 +2174,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Cold, Cold Heart
+- Name: Cold, Cold Heart
   Key: C#
   Chart: |-
     [Int]
@@ -2244,7 +2244,7 @@
   Date added: ''
   Feel: Swing
   Share in charts: 'TRUE'
-- lone: Comes Love
+- Name: Comes Love
   Key: Am
   Chart: |-
     [Int]
@@ -2313,7 +2313,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Country Rag
+- Name: Country Rag
   Key: A
   Chart: |-
     [Intro]
@@ -2345,7 +2345,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Crazy
+- Name: Crazy
   Key: C
   Chart: |-
     [Turnaround]
@@ -2378,7 +2378,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Darlin' Who's The Stranger At The Door
+- Name: Darlin' Who's The Stranger At The Door
   Key: G
   Chart: |
     [Intro]
@@ -2428,7 +2428,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Deeper Than the Holler
+- Name: Deeper Than the Holler
   Key: G
   Chart: |-
     [Int]
@@ -2530,7 +2530,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Diesel Smoke, Dangerous Curves
+- Name: Diesel Smoke, Dangerous Curves
   Key: Gm
   Chart: |-
     [Int]
@@ -2589,7 +2589,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Don't Get Around Much Anymore
+- Name: Don't Get Around Much Anymore
   Key: C
   Chart: |-
     [Int]
@@ -2654,7 +2654,7 @@
   Date added: ''
   Feel: Swing
   Share in charts: 'TRUE'
-- lone: Don't Let Her Know
+- Name: Don't Let Her Know
   Key: C
   Chart: |-
     [Intro]
@@ -2694,7 +2694,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Don't Worry
+- Name: Don't Worry
   Key: E
   Chart: |-
     [Int]
@@ -2764,7 +2764,7 @@
   Date added: ''
   Feel: 4/4 blues shuffle
   Share in charts: 'TRUE'
-- lone: Don't You Ever Get Tired (Of Hurting Me)
+- Name: Don't You Ever Get Tired (Of Hurting Me)
   Key: G
   Chart: |-
     [Int]
@@ -2815,7 +2815,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Drinking Champagne
+- Name: Drinking Champagne
   Key: A
   Chart: |-
     [Intro]
@@ -2873,7 +2873,7 @@
   Date added: 2/27/2025
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Drinkin' My Baby Out of My Mind
+- Name: Drinkin' My Baby Out of My Mind
   Key: C
   Chart: |
     [T/A]
@@ -2943,7 +2943,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Drivin Nails in My Coffin
+- Name: Drivin Nails in My Coffin
   Key: C
   Chart: |-
     ||:
@@ -3000,7 +3000,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Easy on the Eye, Hard on the Heart
+- Name: Easy on the Eye, Hard on the Heart
   Key: G
   Chart: |-
     [Int]
@@ -3080,7 +3080,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Everytime I'm Kissing You
+- Name: Everytime I'm Kissing You
   Key: C
   Chart: |-
     [T/A]
@@ -3136,7 +3136,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: Exactly Like You
+- Name: Exactly Like You
   Key: G
   Chart: |-
     [Int]
@@ -3196,7 +3196,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Faded Love
+- Name: Faded Love
   Key: A
   Chart: |-
     [T/A] (in the key of D)
@@ -3270,7 +3270,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Fifteen Years Going Up (And One Night Coming Down)
+- Name: Fifteen Years Going Up (And One Night Coming Down)
   Key: G
   Chart: |-
     [Turnaround]
@@ -3321,7 +3321,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Folsom Prison Blues
+- Name: Folsom Prison Blues
   Key: F#
   Chart: |-
     [T/A]
@@ -3369,7 +3369,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Foolin' Around
+- Name: Foolin' Around
   Key: B
   Chart: |-
     [Int]
@@ -3417,7 +3417,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Forbidden Wine
+- Name: Forbidden Wine
   Key: F
   Chart: |-
     [Turnaround]
@@ -3451,7 +3451,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Forever and Ever, Amen
+- Name: Forever and Ever, Amen
   Key: D
   Chart: |-
     [Intro]
@@ -3525,7 +3525,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Fly Me to the Moon
+- Name: Fly Me to the Moon
   Key: C
   Chart: |-
     ||:
@@ -3569,7 +3569,7 @@
   Date added: https://musescore.com/user/34876540/scores/8425946
   Feel: Swing
   Share in charts: 'TRUE'
-- lone: From a Jack to a King
+- Name: From a Jack to a King
   Key: D
   Chart: |-
     [T/A]
@@ -3638,7 +3638,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Go Home Letter
+- Name: Go Home Letter
   Key: F
   Chart: |
     1 1 6- 6-
@@ -3671,7 +3671,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Goin Steady
+- Name: Goin Steady
   Key: C
   Chart: |-
     [Int]
@@ -3744,7 +3744,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Gonna Have Love
+- Name: Gonna Have Love
   Key: Bb
   Chart: |-
     [Int]
@@ -3827,7 +3827,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Goodbye Lonesome
+- Name: Goodbye Lonesome
   Key: E
   Chart: |-
     [Intro]
@@ -3868,7 +3868,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Got the Bull by the Horns
+- Name: Got the Bull by the Horns
   Key: A
   Chart: |-
     ||:
@@ -3907,7 +3907,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Green, Green Grass of Home
+- Name: Green, Green Grass of Home
   Key: G
   Chart: |-
     [Verse]
@@ -3956,7 +3956,7 @@
   Date added: 1/7/2025
   Feel: 2/4 shuffle
   Share in charts: 'FALSE'
-- lone: Green Snakes (On the Ceiling)
+- Name: Green Snakes (On the Ceiling)
   Key: E
   Chart: |-
     [T/A]
@@ -4031,7 +4031,7 @@
     Chorus: 4/4 shuffle
     Verse: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: Guitars, Cadillacs
+- Name: Guitars, Cadillacs
   Key: A
   Chart: |-
     [Int]
@@ -4078,7 +4078,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Happy Go Lucky Guitar
+- Name: Happy Go Lucky Guitar
   Key: E
   Chart: |-
     ||:
@@ -4104,7 +4104,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Healing Hands of Time
+- Name: Healing Hands of Time
   Key: A
   Chart: |-
     [T/A]
@@ -4147,7 +4147,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: Heartaches by the Number
+- Name: Heartaches by the Number
   Key: A
   Chart: |-
     [Int]
@@ -4217,7 +4217,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Heartbreak Hotel
+- Name: Heartbreak Hotel
   Key: E
   Chart: |-
     1 1 1 1
@@ -4250,7 +4250,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Heart Over Mind
+- Name: Heart Over Mind
   Key: G
   Chart: |-
     [Int]
@@ -4318,7 +4318,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Hello Cruel World
+- Name: Hello Cruel World
   Key: A
   Chart: |-
     [T/A]
@@ -4412,7 +4412,7 @@
   Date added: 4/14/2025
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Hello Darlin'
+- Name: Hello Darlin'
   Key: C
   Chart: |-
     [A]
@@ -4474,7 +4474,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: Hello Trouble
+- Name: Hello Trouble
   Key: C
   Chart: |-
     [V]
@@ -4537,7 +4537,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Holding Things Together
+- Name: Holding Things Together
   Key: C
   Chart: |-
     [Int]
@@ -4595,7 +4595,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: Honkiest Tonkiest Beer Joint in Town
+- Name: Honkiest Tonkiest Beer Joint in Town
   Key: C
   Chart: |-
     [Int]
@@ -4658,7 +4658,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Honky Tonk Man
+- Name: Honky Tonk Man
   Key: E
   Chart: |-
     [Int]
@@ -4735,7 +4735,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Honky Tonk Song
+- Name: Honky Tonk Song
   Key: E
   Chart: |-
     [Int]
@@ -4780,7 +4780,7 @@
   Date added: ''
   Feel: Boogie
   Share in charts: 'TRUE'
-- lone: I Always Get Lucky With You
+- Name: I Always Get Lucky With You
   Key: B
   Chart: |-
     [Int]
@@ -4842,7 +4842,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: I Can't Stop Loving You
+- Name: I Can't Stop Loving You
   Key: A
   Chart: |-
     [Ch]
@@ -4909,7 +4909,7 @@
   Date added: ''
   Feel: 6/8
   Share in charts: 'TRUE'
-- lone: I Don't Hurt Anymore
+- Name: I Don't Hurt Anymore
   Key: B
   Chart: |-
     [Int]
@@ -4965,7 +4965,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: If That's the Way it's Gotta Be
+- Name: If That's the Way it's Gotta Be
   Key: C
   Chart: |-
     [Int]
@@ -5059,7 +5059,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: If We Make It Through December
+- Name: If We Make It Through December
   Key: C
   Chart: |-
     [Intro]
@@ -5103,7 +5103,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: If You Should Come Back Again
+- Name: If You Should Come Back Again
   Key: A
   Chart: |-
     [Int]
@@ -5171,7 +5171,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: I Hardly Knew It Was You
+- Name: I Hardly Knew It Was You
   Key: F
   Chart: |-
     [A]
@@ -5217,7 +5217,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: I Hear You Talkin'
+- Name: I Hear You Talkin'
   Key: Bb
   Chart: |-
     [Int]
@@ -5269,7 +5269,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: I Just Want To Dance With You
+- Name: I Just Want To Dance With You
   Key: C
   Chart: |-
     [Int]
@@ -5359,7 +5359,7 @@
   Date added: ''
   Feel: Rumba
   Share in charts: 'TRUE'
-- lone: I'll Be Home for Christmas
+- Name: I'll Be Home for Christmas
   Key: Bb
   Chart: |-
     **slow 4/4 shuffle**
@@ -5396,7 +5396,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: I'll Go Down Swinging
+- Name: I'll Go Down Swinging
   Key: Bb
   Chart: |-
     [T/A]
@@ -5450,7 +5450,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: I'll Go Out of My Mind
+- Name: I'll Go Out of My Mind
   Key: D
   Chart: |-
     [T/A]
@@ -5504,7 +5504,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: I Love You More Today
+- Name: I Love You More Today
   Key: A
   Chart: |-
     [Int]
@@ -5556,7 +5556,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: I'm a Long Gone Daddy
+- Name: I'm a Long Gone Daddy
   Key: E
   Chart: |-
     [Int]
@@ -5631,7 +5631,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: I'm Gonna Sit Right Down (And Write Myself a Letter)
+- Name: I'm Gonna Sit Right Down (And Write Myself a Letter)
   Key: Bb
   Chart: "[T/A]\n4 4 1 6\n2 5 1 1\n\n||:\n\n[A]\n1 1 1 1\n1 1 4 4\n4 5 1 6\n2 2 5 5\n\n[B]\n1 1 1 1\n1 1 6 6\n4 4 1 6\n2 5 1 1\n\n:|| play 2 times\n\n^ modulate up whole step\n[A]\n1 1 1 1\n1 1 4 4\n4 5 1 6\n2 2 5 5\n\n[Out]\n1 1 1 1\n1 1 6 6\n4 4 1 6\n2 5 2 5\n2 5 1/7\_6/6b 5* 1◆"
   Lyrics: |
@@ -5658,7 +5658,7 @@
   Date added: ''
   Feel: Swing
   Share in charts: 'TRUE'
-- lone: I'll Lay It On The Line
+- Name: I'll Lay It On The Line
   Key: A
   Chart: |-
     [Int]
@@ -5706,7 +5706,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: I'm Walkin' Slow
+- Name: I'm Walkin' Slow
   Key: G
   Chart: |-
     [Int]
@@ -5758,7 +5758,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: I Never Go Around Mirrors
+- Name: I Never Go Around Mirrors
   Key: E
   Chart: |-
     [Turnaround]
@@ -5806,7 +5806,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: In the Chapel in the Moonlight
+- Name: In the Chapel in the Moonlight
   Key: A
   Chart: |-
     [Intro]
@@ -5843,7 +5843,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Is That All I Meant To You
+- Name: Is That All I Meant To You
   Key: E
   Chart: |-
     [Turnaround]
@@ -5880,7 +5880,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: It Feels So Right
+- Name: It Feels So Right
   Key: D
   Chart: |-
     [Intro]
@@ -5923,7 +5923,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: It's Four in the Morning
+- Name: It's Four in the Morning
   Key: A
   Chart: |-
     [T/A]
@@ -6020,7 +6020,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'FALSE'
-- lone: It's Now or Never
+- Name: It's Now or Never
   Key: E
   Chart: |-
     [Ch]
@@ -6085,7 +6085,7 @@
   Date added: ''
   Feel: Rhumba
   Share in charts: 'TRUE'
-- lone: It’s Such a Pretty World Today
+- Name: It’s Such a Pretty World Today
   Key: E
   Chart: |-
     [V]
@@ -6147,7 +6147,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: I've Been Drinking More
+- Name: I've Been Drinking More
   Key: G
   Chart: |-
     [Ch]
@@ -6219,7 +6219,7 @@
   Date added: 5/14/2025
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: I've Got a Tiger By the Tail
+- Name: I've Got a Tiger By the Tail
   Key: E
   Chart: |-
     [Ch]
@@ -6288,7 +6288,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: I Want You to Want Me
+- Name: I Want You to Want Me
   Key: G
   Chart: |-
     [Int]
@@ -6391,7 +6391,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Jingle Bells
+- Name: Jingle Bells
   Key: E
   Chart: |-
     [A]
@@ -6409,7 +6409,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Jingle Bell Rock
+- Name: Jingle Bell Rock
   Key: C
   Chart: |-
     **2/4 Western swing**
@@ -6468,7 +6468,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Jukebox Charlie
+- Name: Jukebox Charlie
   Key: Bb
   Chart: |-
     [T/A]
@@ -6522,7 +6522,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Juke Joint Johnny
+- Name: Juke Joint Johnny
   Key: G
   Chart: |-
     [Intro]
@@ -6563,7 +6563,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Just One More
+- Name: Just One More
   Key: D
   Chart: |-
     [T/A]
@@ -6633,7 +6633,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: Kiss an Angel Good Morning
+- Name: Kiss an Angel Good Morning
   Key: A
   Chart: |-
     [Int]
@@ -6689,7 +6689,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Leavin' and Sayin' Goodbye
+- Name: Leavin' and Sayin' Goodbye
   Key: C
   Chart: |-
     [T/A]
@@ -6763,7 +6763,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Let’s Take the Long Way Home
+- Name: Let’s Take the Long Way Home
   Key: ''
   Chart: |-
     [Intro]
@@ -6815,7 +6815,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Let’s Twist Again
+- Name: Let’s Twist Again
   Key: D
   Chart: |-
     [A]
@@ -6845,7 +6845,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Linda On My Mind
+- Name: Linda On My Mind
   Key: A
   Chart: |-
     [Int]
@@ -6901,7 +6901,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Lone Star Beer and Bob Wills Music
+- Name: Lone Star Beer and Bob Wills Music
   Key: E
   Chart: |-
     [T/A]
@@ -6971,7 +6971,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Lookout Heart
+- Name: Lookout Heart
   Key: B
   Chart: |-
     [Intro]
@@ -7033,7 +7033,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Love Me
+- Name: Love Me
   Key: G
   Chart: |-
     [V]
@@ -7081,7 +7081,7 @@
   Date added: ''
   Feel: 6/8 blues
   Share in charts: 'TRUE'
-- lone: Lover's Rock
+- Name: Lover's Rock
   Key: Dm
   Chart: |-
     [Int]
@@ -7152,7 +7152,7 @@
   Date added: ''
   Feel: Rumba
   Share in charts: 'TRUE'
-- lone: Love's Gonna Live Here
+- Name: Love's Gonna Live Here
   Key: A
   Chart: |-
     [Intro]
@@ -7203,7 +7203,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Lovin' Machine
+- Name: Lovin' Machine
   Key: G
   Chart: |
     [Intro]
@@ -7247,7 +7247,7 @@
   Date added: 1/31/2025
   Feel: Boogie
   Share in charts: 'FALSE'
-- lone: Little Mama
+- Name: Little Mama
   Key: A
   Chart: |-
     [Intro]
@@ -7289,8 +7289,8 @@
   Date added: 9/20/2024
   Feel: Two-beat, swing
   Share in charts: 'FALSE'
-- lone: Little Ole Wine Drinker Me
-  Key: G
+- Name: Little Ole Wine Drinker Me
+  Key: F#
   Chart: |-
     [Int]
     1 4 1 4
@@ -7358,7 +7358,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Live Fast Love Hard Die Young
+- Name: Live Fast Love Hard Die Young
   Key: E
   Chart: |-
     [Int]
@@ -7431,7 +7431,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: Love Bug
+- Name: Love Bug
   Key: G
   Chart: |-
     [Int]
@@ -7512,7 +7512,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: Lyin' Again
+- Name: Lyin' Again
   Key: A
   Chart: |-
     [Intro]
@@ -7553,7 +7553,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Mama Tried
+- Name: Mama Tried
   Key: D
   Chart: |-
     [Int]
@@ -7637,7 +7637,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Mama Was The Rose of Antone
+- Name: Mama Was The Rose of Antone
   Key: C
   Chart: |-
     [T/A]
@@ -7706,7 +7706,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Mess of Blues
+- Name: Mess of Blues
   Key: C
   Chart: |-
     [V]
@@ -7777,7 +7777,7 @@
   Date added: ''
   Feel: 4/4 blues shuffle
   Share in charts: 'TRUE'
-- lone: Moanin' the Blues
+- Name: Moanin' the Blues
   Key: G
   Chart: |
     [Int]
@@ -7857,7 +7857,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: Mona Lisa
+- Name: Mona Lisa
   Key: C
   Chart: |-
     [A]
@@ -7905,7 +7905,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Moondance
+- Name: Moondance
   Key: Am
   Chart: |-
     [Vamp]
@@ -7974,7 +7974,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Motel Time Again
+- Name: Motel Time Again
   Key: G
   Chart: |-
     [Int]
@@ -8029,7 +8029,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: My Babe
+- Name: My Babe
   Key: F
   Chart: |-
     [Int]
@@ -8106,7 +8106,7 @@
   Date added: ''
   Feel: Blues shuffle
   Share in charts: 'TRUE'
-- lone: My Heart Skips a Beat
+- Name: My Heart Skips a Beat
   Key: A
   Chart: |-
     [Intro]
@@ -8177,7 +8177,7 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
-- lone: My San Antonio Rose
+- Name: My San Antonio Rose
   Key: A
   Chart: |-
     [T/A]
@@ -8230,7 +8230,7 @@
   Date added: 4/14/2025
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: New Patches
+- Name: New Patches
   Key: B
   Chart: |-
     [T/A]
@@ -8297,7 +8297,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Night Life
+- Name: Night Life
   Key: D
   Chart: |
     [T/A]
@@ -8388,7 +8388,7 @@
   Date added: ''
   Feel: 6/8
   Share in charts: 'TRUE'
-- lone: N.O.I.S.E.
+- Name: N.O.I.S.E.
   Key: E
   Chart: |-
     [Intro]
@@ -8443,7 +8443,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: No More Nuthin'
+- Name: No More Nuthin'
   Key: G
   Chart: |-
     [Int]
@@ -8540,7 +8540,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: (Now and Then There's) A Fool Such as I
+- Name: (Now and Then There's) A Fool Such as I
   Key: D
   Chart: |-
     [Intro]
@@ -8596,7 +8596,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Oh, Pretty Woman
+- Name: Oh, Pretty Woman
   Key: A
   Chart: |-
     [Intro]
@@ -8664,7 +8664,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Old Fashioned Love
+- Name: Old Fashioned Love
   Key: D
   Chart: |-
     ||:
@@ -8707,7 +8707,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: One Track Minded Baby
+- Name: One Track Minded Baby
   Key: C
   Chart: |-
     [T/A]
@@ -8784,7 +8784,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: Or Is it Love
+- Name: Or Is it Love
   Key: G
   Chart: |-
     [Intro]
@@ -8818,7 +8818,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Panhandle Rag
+- Name: Panhandle Rag
   Key: E
   Chart: |-
     ||:
@@ -8866,7 +8866,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Playboy
+- Name: Playboy
   Key: D
   Chart: |-
     [Int]
@@ -8922,7 +8922,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Play Together Again Again
+- Name: Play Together Again Again
   Key: C
   Chart: |-
     [Intro]
@@ -8963,7 +8963,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Pleading
+- Name: Pleading
   Key: F
   Chart: |-
     [Intro]
@@ -9002,7 +9002,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Please, Please Baby
+- Name: Please, Please Baby
   Key: E
   Chart: |-
     [Int]
@@ -9090,7 +9090,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Pop a Top
+- Name: Pop a Top
   Key: G
   Chart: |-
     [Ch]
@@ -9156,7 +9156,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Pretty Paper
+- Name: Pretty Paper
   Key: D
   Chart: |-
     [Chorus]
@@ -9205,7 +9205,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Pride
+- Name: Pride
   Key: D
   Chart: |-
     [Intro]
@@ -9268,7 +9268,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Red, Red Wine And Cheatin’ Songs
+- Name: Red, Red Wine And Cheatin’ Songs
   Key: E
   Chart: |-
     [T/A]
@@ -9330,7 +9330,7 @@
   Date added: ''
   Feel: Waltz, shuffle
   Share in charts: 'TRUE'
-- lone: Release Me
+- Name: Release Me
   Key: G
   Chart: |-
     [Int]
@@ -9372,7 +9372,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Remington Ride
+- Name: Remington Ride
   Key: D
   Chart: |-
     [Int]
@@ -9430,7 +9430,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Right Or Wrong
+- Name: Right Or Wrong
   Key: F
   Chart: |-
     [Intro]
@@ -9471,7 +9471,7 @@
   Date added: 7/15/2024
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Roly Poly
+- Name: Roly Poly
   Key: Ab
   Chart: |-
     [Int]
@@ -9538,7 +9538,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Route 66
+- Name: Route 66
   Key: Bb
   Chart: |-
     [Int]
@@ -9630,7 +9630,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Running Kind
+- Name: Running Kind
   Key: G
   Chart: |-
     [Int]
@@ -9689,7 +9689,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Sad is the Lonely
+- Name: Sad is the Lonely
   Key: Ab
   Chart: |-
     [Intro]
@@ -9721,7 +9721,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Sad Songs and Waltzes
+- Name: Sad Songs and Waltzes
   Key: D
   Chart: |-
     [Int]
@@ -9790,7 +9790,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: San Antonio Rose
+- Name: San Antonio Rose
   Key: B
   Chart: |-
     [Int]
@@ -9870,7 +9870,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Santa Claus is Back in Town
+- Name: Santa Claus is Back in Town
   Key: A
   Chart: |-
     [Turnaround]
@@ -9927,7 +9927,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Santa Claus is Comin' (In a Boogie Woogie Choo Choo Train)
+- Name: Santa Claus is Comin' (In a Boogie Woogie Choo Choo Train)
   Key: A
   Chart: |
     [Turnaround]
@@ -9971,7 +9971,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: She Knows Why
+- Name: She Knows Why
   Key: A
   Chart: |-
     [A]
@@ -10033,7 +10033,80 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: She Thinks I Still Care
+- Name: She's All I Got
+  Key: Bb
+  Chart: |-
+    [Int]
+    2/3 4 5◆
+
+    [Ch]
+    1 1 2- 2-
+    5 5 1 5
+    1 1 2- 2-
+    2/3 4/5 1 1
+
+    [V]
+    2- 2- 1 1
+    2/3 4/5 1 1
+    2- 2- 1 1
+    2/3 4/5 1 1/5
+
+    [Ch]
+    1 1 2- 2-
+    5 5 1 5
+    1 1 2- 2-
+    2/3 4/5 1 1
+
+    [V]
+    2- 2- 1 1
+    2/3 4/5 1 1
+    2- 2- 1 1
+    2/3 4/5◆ - -
+    - -
+
+    [Ch]
+    1 1 2- 2-
+    5 5 1 5
+    1 1 2- 2-
+    2/3 4/5 1 1/5
+
+    [Out]
+    1 1 2- 2-/5
+    1 1 2- 2-/5
+    1 1 2- 2-/5
+    2/3 4/5 1 1◆
+  Lyrics: |-
+    [Int]
+
+    [Ch]
+    Well, I say, friend, don't take her, she's all I've got
+    Please, don't take her love away from me
+    I'm beggin' you, friend, don't take her, she's all I've got
+    She's everything in life I'll ever need
+
+    [V]
+    She is life when I wanna live
+    She's everything to me in life that life can give
+    She's my water when I need a drink
+    She's the first thought in my mind each time I try to think
+
+    [Ch]
+
+    [V]
+    She's my fingers when I want to feel
+    She's the only thing in life to me that's really real
+    She is love, she's all the love I know
+    She could kiss the ground in the wintertime
+    And make the flower grow
+
+    [Ch]
+
+    [Out]
+  Recording: https://www.youtube.com/watch?v=4bNQEB6Xsnc
+  Date added: 06/23/2025
+  Feel: Straight
+  Share in charts: 'TRUE'
+- Name: She Thinks I Still Care
   Key: B
   Chart: |-
     [Intro]
@@ -10086,7 +10159,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: She's Wearing Blue
+- Name: She's Wearing Blue
   Key: E
   Chart: |-
     [Int]
@@ -10163,7 +10236,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Silver Wings
+- Name: Silver Wings
   Key: E
   Chart: |-
     [Int]
@@ -10226,7 +10299,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Sing a Sad Song
+- Name: Sing a Sad Song
   Key: C
   Chart: |-
     [A]
@@ -10269,7 +10342,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Sittin and Thinkin
+- Name: Sittin and Thinkin
   Key: G
   Chart: |-
     [Int]
@@ -10354,7 +10427,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Six Pack to Go
+- Name: Six Pack to Go
   Key: B
   Chart: "[Int]\n1◆\_1#/1◆\n\n[A]\n1 6 2 5\n1 1 4 1\n1 6 2/5 1\n\n[B]\n4 4 1 1\n4 4 1 5\n1 1 4 1\n1 6 2/5 1\n\n[Solo]\n4 4 1 1\n4 4 1 5\n1 1 4 1\n1 6 2/5 1\n\n[A]\n1 6 2 5\n1 1 4 1\n1 6 2/5 1\n\n[B]\n4 4 1 1\n4 4 1 5\n1 1 4 1\n1 6 2/5 1\n\n[Out]\n4 4 1* 7/1"
   Lyrics: |-
@@ -10381,7 +10454,7 @@
   Date added: ''
   Feel: Swing
   Share in charts: 'TRUE'
-- lone: Sixteen Candles
+- Name: Sixteen Candles
   Key: A
   Chart: |-
     [Intro]
@@ -10426,7 +10499,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Sixteen Tons
+- Name: Sixteen Tons
   Key: E
   Chart: |-
     [Turnaround]
@@ -10479,7 +10552,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Slide Off Of Your Satin Sheets
+- Name: Slide Off Of Your Satin Sheets
   Key: Bb
   Chart: |-
     [T/A]
@@ -10533,7 +10606,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Snatch It and Grab It
+- Name: Snatch It and Grab It
   Key: E
   Chart: |
     [Int]
@@ -10615,7 +10688,7 @@
   Date added: ''
   Feel: Rockabilly
   Share in charts: 'TRUE'
-- lone: So Glad You're Mine
+- Name: So Glad You're Mine
   Key: E
   Chart: |-
     [Intro]
@@ -10682,7 +10755,7 @@
   Date added: ''
   Feel: Blues shuffle
   Share in charts: 'TRUE'
-- lone: Someone to Watch Over Me
+- Name: Someone to Watch Over Me
   Key: F
   Chart: |-
     [Intro]
@@ -10722,7 +10795,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Spanish Eyes
+- Name: Spanish Eyes
   Key: G
   Chart: |+
     [Int]
@@ -10779,7 +10852,7 @@
   Date added: 5/13/2025
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Streets of Bakersfield
+- Name: Streets of Bakersfield
   Key: ''
   Chart: |-
     4 4 5 5
@@ -10820,7 +10893,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Stop the World (And Let Me Off)
+- Name: Stop the World (And Let Me Off)
   Key: E
   Chart: |-
     [Int]
@@ -10901,7 +10974,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Sugar Moon
+- Name: Sugar Moon
   Key: C
   Chart: |-
     [Int]
@@ -10955,7 +11028,7 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
-- lone: Susie-Q
+- Name: Susie-Q
   Key: E
   Chart: |-
     [Int]
@@ -11009,7 +11082,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Suspicious Minds
+- Name: Suspicious Minds
   Key: G
   Chart: |-
     [Int]
@@ -11083,7 +11156,7 @@
   Date added: 3/3/2025
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Swinging Doors
+- Name: Swinging Doors
   Key: G
   Chart: |-
     [T/A]
@@ -11149,7 +11222,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: Talkin' to the Wall
+- Name: Talkin' to the Wall
   Key: A
   Chart: |-
     [Tag]
@@ -11219,7 +11292,7 @@
   Date added: 2/3/2025
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Tattle Tale Tears
+- Name: Tattle Tale Tears
   Key: E
   Chart: |-
     [Intro]
@@ -11261,7 +11334,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Tell Her
+- Name: Tell Her
   Key: F
   Chart: |-
     [Int]
@@ -11329,7 +11402,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Tennessee Waltz
+- Name: Tennessee Waltz
   Key: A
   Chart: |-
     [T/A]
@@ -11384,7 +11457,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: Texas Blues
+- Name: Texas Blues
   Key: E
   Chart: |-
     1 1 1 1
@@ -11416,7 +11489,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Thanks A Lot
+- Name: Thanks A Lot
   Key: C
   Chart: |-
     [Int]
@@ -11460,7 +11533,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: That's Alright Mama
+- Name: That's Alright Mama
   Key: A
   Chart: |-
     [Int]
@@ -11508,7 +11581,7 @@
   Date added: ''
   Feel: Rockabilly
   Share in charts: 'TRUE'
-- lone: The Bottle Let Me Down
+- Name: The Bottle Let Me Down
   Key: D
   Chart: |-
     [T/A]
@@ -11578,7 +11651,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: The Chair
+- Name: The Chair
   Key: A
   Chart: |-
     [Int]
@@ -11631,7 +11704,7 @@
   Date added: ''
   Feel: Ballad
   Share in charts: 'TRUE'
-- lone: The Honky Tonk Downstairs
+- Name: The Honky Tonk Downstairs
   Key: G
   Chart: |-
     [T/A]
@@ -11687,7 +11760,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: The King of Broken Hearts
+- Name: The King of Broken Hearts
   Key: C
   Chart: |-
     [V]
@@ -11756,7 +11829,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: The Little White House
+- Name: The Little White House
   Key: E
   Chart: |-
     [Int]
@@ -11808,7 +11881,7 @@
   Date added: ''
   Feel: Rumba
   Share in charts: 'TRUE'
-- lone: The Loser
+- Name: The Loser
   Key: A
   Chart: |-
     [Turnaround]
@@ -11847,7 +11920,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: The Pleasure's All Mine
+- Name: The Pleasure's All Mine
   Key: F
   Chart: |-
     [A]
@@ -11901,7 +11974,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: These Boots Are Made For Walkin'
+- Name: These Boots Are Made For Walkin'
   Key: D
   Chart: |-
     [Int]
@@ -11997,7 +12070,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: The Twenty-Fourth Hour
+- Name: The Twenty-Fourth Hour
   Key: F
   Chart: |-
     [Int]
@@ -12066,7 +12139,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: The Twist
+- Name: The Twist
   Key: D
   Chart: |-
     [Int]
@@ -12116,7 +12189,7 @@
   Date added: 8/7/2024
   Feel: Rock
   Share in charts: 'TRUE'
-- lone: The Woman I Need
+- Name: The Woman I Need
   Key: G
   Chart: |-
     [Verse]
@@ -12156,7 +12229,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: There'll Be No Teardrops Tonight
+- Name: There'll Be No Teardrops Tonight
   Key: D
   Chart: |-
     [Intro]
@@ -12203,7 +12276,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: There's More To Leaving Than
+- Name: There's More To Leaving Than
   Key: ''
   Chart: |-
     [Intro]
@@ -12242,7 +12315,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: There Stands the Glass
+- Name: There Stands the Glass
   Key: D
   Chart: |-
     [Int]
@@ -12304,7 +12377,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: This Cold War With You
+- Name: This Cold War With You
   Key: F
   Chart: |-
     1 4 1 1
@@ -12334,7 +12407,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: This Old Broken Heart
+- Name: This Old Broken Heart
   Key: B
   Chart: |-
     [Intro]
@@ -12380,7 +12453,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Those Memories of You
+- Name: Those Memories of You
   Key: E
   Chart: |
     [Intro]
@@ -12420,7 +12493,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Till I Hear From You
+- Name: Till I Hear From You
   Key: F
   Chart: |-
     [Intro]
@@ -12464,7 +12537,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Tips and Beer
+- Name: Tips and Beer
   Key: E
   Chart: |-
     [T/A]
@@ -12537,7 +12610,7 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- lone: Today I Started Loving You Again
+- Name: Today I Started Loving You Again
   Key: A
   Chart: |-
     [Int]
@@ -12596,7 +12669,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Together Again
+- Name: Together Again
   Key: C
   Chart: |-
     ||:
@@ -12638,7 +12711,7 @@
   Date added: ''
   Feel: 6/8
   Share in charts: 'TRUE'
-- lone: Too Much Water
+- Name: Too Much Water
   Key: A
   Chart: |-
     [Int]
@@ -12710,7 +12783,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Touch My Heart
+- Name: Touch My Heart
   Key: B
   Chart: |-
     [Int]
@@ -12757,7 +12830,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Trouble in Mind
+- Name: Trouble in Mind
   Key: A
   Chart: |-
     1 5 1 4
@@ -12795,7 +12868,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Trying To Get To You
+- Name: Trying To Get To You
   Key: F
   Chart: |-
     1 1 1 1*
@@ -12852,7 +12925,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Tulsa Time
+- Name: Tulsa Time
   Key: E
   Chart: |-
     [Int]
@@ -12900,7 +12973,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Turn It On, Turn It Up, Turn Me Loose
+- Name: Turn It On, Turn It Up, Turn Me Loose
   Key: E
   Chart: |-
     [Int]
@@ -12997,7 +13070,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Under Your Spell Again
+- Name: Under Your Spell Again
   Key: A
   Chart: |-
     [Int]
@@ -13072,7 +13145,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: You Took Her Off My Hands
+- Name: You Took Her Off My Hands
   Key: E
   Chart: |-
     [Intro]
@@ -13115,7 +13188,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Waiting
+- Name: Waiting
   Key: A
   Chart: |-
     [Turnaround]
@@ -13156,7 +13229,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Wake Me When It's Over
+- Name: Wake Me When It's Over
   Key: E
   Chart: |-
     [Intro]
@@ -13204,7 +13277,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Walk Through This World With Me
+- Name: Walk Through This World With Me
   Key: G
   Chart: |-
     [Int]
@@ -13252,7 +13325,7 @@
   Date added: 5/13/2025
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Waltz Across Texas
+- Name: Waltz Across Texas
   Key: C
   Chart: |
     [Int]
@@ -13299,7 +13372,7 @@
   Date added: ''
   Feel: Waltz
   Share in charts: 'TRUE'
-- lone: Wasted Days and Wasted Nights
+- Name: Wasted Days and Wasted Nights
   Key: E
   Chart: |-
     [A]
@@ -13346,7 +13419,7 @@
   Date added: 8/12/2024
   Feel: 6/8
   Share in charts: 'FALSE'
-- lone: We Have Strayed So Far Away
+- Name: We Have Strayed So Far Away
   Key: E
   Chart: |-
     5 5 1 1
@@ -13387,7 +13460,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Whatever Happened to Me
+- Name: Whatever Happened to Me
   Key: F
   Chart: |-
     1 1 4 4
@@ -13425,7 +13498,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: What's Made Milwaukee Famous
+- Name: What's Made Milwaukee Famous
   Key: B
   Chart: |-
     [T/A]
@@ -13477,7 +13550,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Where's Your Line?
+- Name: Where's Your Line?
   Key: Am
   Chart: |
     1 1 4-5 1
@@ -13524,7 +13597,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Whiskey River
+- Name: Whiskey River
   Key: D
   Chart: |-
     [Int]
@@ -13606,7 +13679,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: White Christmas
+- Name: White Christmas
   Key: C
   Chart: |-
     **laid-back Western swing feel**
@@ -13648,7 +13721,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Why Me
+- Name: Why Me
   Key: D
   Chart: |-
     [T/A]
@@ -13716,7 +13789,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: Wine Me Up
+- Name: Wine Me Up
   Key: G
   Chart: |-
     [Intro]
@@ -13777,7 +13850,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Wishful Thinking
+- Name: Wishful Thinking
   Key: F
   Chart: |-
     [T/A]
@@ -13857,7 +13930,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Women Make a Fool Out of Me
+- Name: Women Make a Fool Out of Me
   Key: G
   Chart: |-
     [T/A]
@@ -13936,7 +14009,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Working Man Blues
+- Name: Working Man Blues
   Key: A
   Chart: |-
     [Int]
@@ -13991,7 +14064,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
-- lone: Wrapped Around
+- Name: Wrapped Around
   Key: A
   Chart: |-
     [Int]
@@ -14082,7 +14155,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: You Don't Know Me
+- Name: You Don't Know Me
   Key: D
   Chart: |-
     [Verse 1]
@@ -14136,7 +14209,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: Your Cheatin' Heart
+- Name: Your Cheatin' Heart
   Key: E
   Chart: |-
     [Int]
@@ -14210,7 +14283,7 @@
   Date added: ''
   Feel: Two-beat
   Share in charts: 'TRUE'
-- lone: Your Old Standby
+- Name: Your Old Standby
   Key: G
   Chart: |-
     [Turnaround]
@@ -14257,7 +14330,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: You're Still on My Mind
+- Name: You're Still on My Mind
   Key: A
   Chart: |
     [Int]
@@ -14305,7 +14378,7 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
-- lone: Your Tender Loving Care
+- Name: Your Tender Loving Care
   Key: A
   Chart: 1 4 1 1
   Lyrics: |-
@@ -14325,7 +14398,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: You Took Her Off My Hands
+- Name: You Took Her Off My Hands
   Key: ''
   Chart: |-
     [Intro]
@@ -14368,7 +14441,7 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
-- lone: You Win Again
+- Name: You Win Again
   Key: G
   Chart: |-
     [A]
