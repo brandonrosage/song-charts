@@ -2107,6 +2107,69 @@
   Date added: 5/14/2025
   Feel: ''
   Share in charts: 'FALSE'
+- Name: Cinderella
+  Key: F#
+  Chart: |-
+    [Int]
+    5 5 1 1
+
+    [V]
+    1 1 5 5
+    5 5 1 1
+    1 1 4 4
+    5 5 1 1
+
+    [Ch]
+    4 4 1 1
+    5 5 1 1
+    4 4 1 1
+    5 5 1 1
+
+    [Solo]
+    4 4 1 1
+    5 5 1 1
+    4 4 1 1
+    5 5 1 1
+
+    [V]
+    1 1 5 5
+    5 5 1 1
+    1 1 4 4
+    5 5 1 1
+
+    [Ch]
+    4 4 1 1
+    5 5 1 1
+    4 4 1 1
+    5 5 1 1
+  Lyrics: |-
+    [Int]
+
+    [V]
+    So you've found your Prince Charming was just a dream
+    There wasn't any palace and you weren't a Queen
+    In your faded cotton dresses anyone could see
+    But you're still Cinderella to me
+
+    [Ch]
+    Cinderella, Cinderella
+    This is not the way love should be
+    Cinderella, Cinderella
+    Won't you let me take you home with me
+
+    [Solo]
+
+    [V]
+    Our honeymoon may not be a fancy ball
+    You may not have a maid and butler at your call
+    But I'll be more than any prince could ever be
+    And you'll be Cinderella to me
+
+    [Ch]
+  Recording: https://www.youtube.com/watch?v=d__ahndzPvM
+  Date added: 7/21/2025
+  Feel: 2/4 shuffle
+  Share in charts: 'FALSE'
 - Name: Close Up the Honky Tonks
   Key: A
   Chart: |-
@@ -11028,6 +11091,99 @@
   Date added: ''
   Feel: Western swing
   Share in charts: 'TRUE'
+- Name: Summertime Blues
+  Key: D
+  Chart: |-
+    [Int]
+    1 1 1 1
+    1 1 1 1
+
+    [V]
+    1 1 1 1
+    1 1 1 1
+    4 4 1*
+    4 4 1*
+
+    [T/A]
+    1 1 1 1
+
+    [V]
+    1 1 1 1
+    1 1 1 1
+    4 4 1*
+    4 4 1*
+
+    [Solo]
+    1 1 1 1
+    1 1 1 1
+    4 4 1 1
+    4 4 1*
+
+    [T/A]
+    1 1 1 1
+
+    [V]
+    1 1 1 1
+    1 1 1 1
+    4 4 1*
+    4 4 1*
+
+    [Solo]
+    1 1 1 1
+    1 1 1 1
+    4 4 1 1
+    4 4 1*
+
+    [T/A]
+    1 1 1 1
+
+    [V]
+    1 1 1 1
+    1 1 1 1
+    4 4 1 5/1
+    4 4 1*
+
+    [Out]
+    1 1 1 1
+    1 1 1 1◆
+  Lyrics: |-
+    [V]
+    Well, I'm gonna raise a fuss, I'm gonna raise a holler
+    About workin' all summer just to try an' earn a dollar
+    Every time I call my baby to try to get a date
+    My boss says, "No dice, son, you gotta work late"
+    Sometimes I wonder what I'm gonna do, 'Cause there ain't no cure for the summertime blues
+
+    [V]
+    Well, my mom and papa told me, "Son, you gotta make some money
+    If you wanna use the car to go ridin' next Sunday"
+    Well, I didn't go to work, told the boss I was sick
+    Now you can't use the car 'cause you didn't work a lick
+    Sometimes I wonder what I'm gonna do, 'Cause there ain't no cure for the summertime blues
+
+    [Solo]
+
+    [V]
+    I'm gonna take two weeks, gonna have a vacation
+    I'm gonna take my problem to the United Nation
+    Well, I called my Congressman and he said quote
+    "I'd like to help you son, but you're too young to vote"
+    Sometimes I wonder what I'm gonna do, 'Cause there ain't no cure for the summertime blues
+
+    [Solo]
+
+    [V]
+    Well, I'm gonna raise a fuss, I'm gonna raise a holler
+    About workin' all summer just to try an' earn a dollar
+    Sometimes I wonder what I'm gonna do, 'Cause there ain't no cure for the summertime blues
+    Yeah, sometimes I wonder what I'm gonna do, 'Cause there ain't no cure for the summertime blues
+
+    [Out]
+    No, there ain't no cure for the summertime blues
+  Recording: https://www.youtube.com/watch?v=G9x0wbKHos0
+  Date added: 7/21/2025
+  Feel: Straight
+  Share in charts: 'FALSE'
 - Name: Susie-Q
   Key: E
   Chart: |-
@@ -11760,6 +11916,67 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
+- Name: The Key’s in the Mailbox
+  Key: A
+  Chart: |-
+    [Int]
+    5 5 1 1
+
+    [V]
+    1 1 5 5
+    5 5 5 1
+    1 1 5 5
+    5 5 1 1
+
+    [Ch]
+    1 1 4 4
+    5 5 5 1 1
+    1 1 4 4
+    5 5 1 1
+
+    [Solo]
+    1 1 4 4
+    5 5 1 1
+    1 1 4 4
+    5 5 1 1
+
+    [V]
+    1 1 5 5
+    5 5 5 1
+    1 1 5 5
+    5 5 1 1
+
+    [Ch]
+    1 1 4 4
+    5 5 5 1 1
+    1 1 4 4
+    5 5 1 1
+  Lyrics: |-
+    [V]
+    Oh jealous me and careless you the odds were just too great
+    I couldn't take those lonely nights you made me sit and wait
+    I thought I'd seen the last of you when you walked out of sight
+    Instead I see you in my dreams each night
+
+    [Ch]
+    So the key's in the mailbox come on in
+    I'm sitting here wishing dear I had your love again
+    I'll never even ask you where you've been 
+    The key's in the mailbox come on in
+
+    [Solo]
+
+    [V]
+    I said I'd rather be alone than share your company
+    I said don't come around at all if you want more than me
+    But sitting here alone I can't deny the flame that burns
+    I'd gladly take you back on any terms
+
+    [Ch]
+  Recording: https://www.youtube.com/watch?v=Nsg-7qUvaik
+  Date added: 7/21/2025
+  Feel: 4/4 shuffle
+  Share in charts: 'FALSE'
 - Name: The King of Broken Hearts
   Key: C
   Chart: |-
@@ -14463,47 +14680,65 @@
   Feel: ''
   Share in charts: 'FALSE'
 - Name: You Took Her Off My Hands
-  Key: ''
+  Key: F
   Chart: |-
-    [Intro]
-    1-6 2-5 1 1*
+    [Int]
+    1/6 2-/5 1 1*
 
-    [Verse]
+    [V]
     1 1 4 4
     5 5 1 1
 
-    [Refrain]
+    [Ch]
     1 1 4 4
-    1-6 2-5 1 1
+    1/6 2-/5 1 1
 
-    [Chorus]
+    [Br]
     4 4 1 1
     4 4 1 5 5*
-  Lyrics: |-
-    [Intro]
 
-    [Verse]
+    [Ch]
+    1 1 4 4
+    1/6 2-/5 1 1
+
+    [Solo]
+    4 4 1 1
+    4 4 2 5 5*
+    1 1 4 4
+    1/6 2-/5 1 1
+
+    [Br]
+    4 4 1 1
+    4 4 1 5 5*
+
+    [Ch]
+    1 1 4 4
+    1/6 2-/5 1 1
+  Lyrics: |-
+    [Int]
+
+    [V]
     You took her off my hands when you stepped in
     You changed everything, we're not even friends
 
-    [Refrain]
+    [Ch]
     Don't leave the job half-done, leave nothing behind
     You took her off my hands, now please take her off my mind
 
-    [Chorus]
+    [Br]
     Please take her photograph engraved on my heart so blue
     And take all her memories, she now belongs to you
 
-    [Refrain]
+    [Ch]
 
-    [Solo over refrain]
+    [Solo]
 
-    [Chorus]
+    [Br]
 
-    [Refrain]
-  Recording: https://www.youtube.com/watch?v=9l41CKVBO84
-  Date added: ''
-  Feel: ''
+    [Ch]
+  Recording: https://www.youtube.com/watch?v=j-sqVUqzhVs
+  Date added: 7/21/2025
+  Feel: 4/4 shuffle
   Share in charts: 'FALSE'
 - Name: You Win Again
   Key: G
