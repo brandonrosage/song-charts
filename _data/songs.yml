@@ -4141,6 +4141,75 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
+- Name: Hallelujah I Love Her So
+  Key: Bb
+  Chart: |-
+    [Int]
+    5◆ 6-◆ 5◆ 6-◆
+    5/6- 2-/5 1 1/5
+
+    [V]
+    1/3 4/4dim 1/3 4/4dim
+    1* 3* 4* 4dim*
+    1 6- 2/5 1/5
+
+    [V]
+    1/3 4/4dim 1/3 4/4dim
+    1* 3* 4* 4dim*
+    1 6- 2/5 1/2#
+
+    [Br]
+    4* 4dim* 1* 1*
+    4* 2#* 2* *
+
+    [V]
+    1/3 4/4dim 1/3 4/4dim
+    1* 3* 4* 4dim*
+    1 6- 2/5 1
+
+    [Solo]
+    1/3 4/4dim 1/3 4/4dim
+    1* 3* 4* 4dim*
+    1 6- 2/5 1/2#
+
+    [Br]
+    4* 4dim* 1* 1*
+    4* 2#* 2* *
+
+    [Out]
+    1/3 4/4dim 1/3 4/4dim
+    1* 3* 4* 4dim*
+    1 6- 2/5 1/6
+    2/5 1/6 2/5 1*
+  Lyrics: |-
+    [V]
+    Let me tell you 'bout a girl I know, she is my baby and she lives next door
+    Every mornin' 'fore the sun comes up, she brings me coffee in my favorite cup
+    That's why I know, yes, I know, Hallelujah, I just love her so
+
+    [V]
+    When I'm in trouble and I have no friend, I know she'll go with me until the end
+    Everybody asks me how I know, I smile at them and say, "She told me so"
+    That's why I know, oh, I know, Hallelujah, I just love her so
+
+    [Br]
+    Now, if I call her on the telephone, and tell her that I'm all alone
+    By the time I count from one to four, I hear her (KNOCK) on my door
+
+    [V]
+    In the evening when the sun goes down, when there is nobody else around
+    She kisses me and she holds me tight, and tells me, "Daddy, everything's all right"
+    That's why I know, whoa, I know, Hallelujah, I just love her so
+
+    [Solo]
+
+    [Br]
+
+    [Out]
+  Recording: https://www.youtube.com/watch?v=BC9H76ffcDs
+  Date added: 8/10/2025
+  Feel: 4/4 shuffle
+  Share in charts: 'TRUE'
 - Name: Happy Go Lucky Guitar
   Key: E
   Chart: |-
@@ -10038,40 +10107,40 @@
   Key: Eb
   Chart: |-
     [Int]
-    4 4- 1 6-
-    4/5 6/7 1*
+    4 4- 1 7-/6-
+    4/5 6-/7- 1* *
 
     [V]
-    4 4- 1 6
-    2 2/5 3# 3#
+    4 4- 1 7-/6-
+    2- 2-/5 3# 4/3#
 
     [V]
-    4 4- 1 6
-    2 2/5 1 1
+    4 4- 1 7-/6-
+    2- 2-/5 1 1
 
     [Chorus]
     4 4- 1 1
-    2 2 1/7 6/5
+    2 2 1/7- 6-/5
 
     [V]
-    4 4- 1 6
-    2 2/5 1 1
+    4 4- 1 7-/6-
+    2- 2-/5 1 1
 
     [Solo]
-    4 4- 1 6
-    2 2/5 3# 3#
-    4 4- 1 6
-    2 2/5 1 1
+    4 4- 1 7-/6-
+    2- 2-/5 3# 4/3#
+    4 4- 1 7-/6-
+    2- 2-/5 1 1
 
     [Chorus]
     4 4- 1 1
-    2 2 1/7 6/5
+    2 2 1/7- 6-/5
 
     [Out]
-    4 4- 1 6
-    2 2/5 1 6
-    2 2/5 3# 6
-    2 2/5 3# 6
+    4 4- 1 7-/6-
+    2- 2-/5 1 7-/6-
+    2- 2-/5 3# 7-/6-
+    2- 2-/5 1* 1◆
   Lyrics: |-
     [Verse]
     Scotch and soda, mud in your eye
@@ -10092,8 +10161,7 @@
     [Verse]
     All I need is one of your smiles
     Sunshine of your eyes, oh, me, oh, my
-    Do I feel higher than a kite can fly?
-    Give me lovin', baby, I feel high
+    Oh, me, oh, my, do I feel high?
 
     [Solo]
 
@@ -10102,7 +10170,7 @@
   Recording: https://www.youtube.com/watch?v=P1SyvN07vLE
   Date added: 8/6/2025
   Feel: Swing
-  Share in charts: 'FALSE'
+  Share in charts: 'TRUE'
 - Name: She Knows Why
   Key: A
   Chart: |-
@@ -13604,13 +13672,13 @@
 
     [V]
     Walk through this world with me, go where I go
-    Share all my dreams with me, I've searched for you so
+    Share all my dreams with me, I need you so
 
     [Ch]
   Recording: https://www.youtube.com/watch?v=uFRywt4FdRg
   Date added: 5/13/2025
   Feel: ''
-  Share in charts: 'FALSE'
+  Share in charts: 'TRUE'
 - Name: Waltz Across Texas
   Key: C
   Chart: |
