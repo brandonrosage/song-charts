@@ -4149,41 +4149,41 @@
     5/6- 2-/5 1 1/5
 
     [V]
-    1/3 4/4dim 1/3 4/4dim
-    1* 3* 4* 4dim*
+    1/3 4/4#dim 1/3 4/4#dim
+    1* 3* 4* 4#dim*
     1/3 6-/4 2/5 1/5
 
     [V]
-    1/3 4/4dim 1/3 4/4dim
-    1* 3* 4* 4dim*
+    1/3 4/4#dim 1/3 4/4#dim
+    1* 3* 4* 4#dim*
     1/3 6-/4 2/5 1/2#
 
     [Br]
-    4* 4dim* 1* 1*
+    4* 4#dim* 1* 1*
     4* 2#* 2* *
 
     [V]
-    1/3 4/4dim 1/3 4/4dim
-    1* 3* 4* 4dim*
+    1/3 4/4#dim 1/3 4/4#dim
+    1* 3* 4* 4#dim*
     1/3 6-/4 2/5 1/5
 
     [Solo I]
-    1/3 4/4dim 1/3 4/4dim
-    1* 3* 4* 4dim*
+    1/3 4/4#dim 1/3 4/4#dim
+    1* 3* 4* 4#dim*
     1/3 6-/4 2/5 1/5
 
     [Solo II]
-    1/3 4/4dim 1/3 4/4dim
-    1* 3* 4* 4dim*
+    1/3 4/4#dim 1/3 4/4#dim
+    1* 3* 4* 4#dim*
     1/3 6-/4 2/5 1/2#
 
     [Br]
-    4* 4dim* 1* 1*
+    4* 4#dim* 1* 1*
     4* 2#* 2* *
 
     [Out]
-    1/3 4/4dim 1/3 4/4dim
-    1* 3* 4* 4dim*
+    1/3 4/4#dim 1/3 4/4#dim
+    1* 3* 4* 4#dim*
     1/3 6-/4 2/5 1/6
     2/5 1/6 2/5 1*
   Lyrics: |-
@@ -9062,21 +9062,27 @@
 - Name: Play Together Again Again
   Key: C
   Chart: |-
-    [Intro]
-    4-5 1-6m 4-5 1-4
+    [Int]
+    4/5 1/6- 4/5 1/4
 
-    [Verse]
-    1◆ 1-4 2m-5 5-1
-    4-5 1-6m 2 5
-    5◆ 1-4 2m-5 5-1
-    4-5 1-6m 4-5 1-4
+    [V]
+    1◆ 1/4 2-/5 5/1
+    4/5 1/6- 2 5
+    5◆ 1/4 2-/5 5/1
+    4/5 1/6- 4/5 1/4
 
-    [Instrumental]
-    1-4 2m-5 5-1
-    4-5 1-6m 4-5 1-4
+    [Solo]
+    1/4 2-/5 5/1
+    4/5 1/6- 4/5 1/4
 
-    [Outro]
-    1◆ 1-4◆
+    [V]
+    1◆ 1/4 2-/5 5/1
+    4/5 1/6- 2 5
+    5◆ 1/4 2-/5 5/1
+    4/5 1/6- 4/5 1/4
+
+    [Out]
+    1◆ 1/4◆
   Lyrics: |-
     [Intro]
 
@@ -9088,13 +9094,13 @@
 
     [Instrumental]
 
-    [Verse:]
+    [Verse]
     Play together again, again let me feel her hand in mind
     I'll make believe she's in my arms just like old times
     Play together again, again bring back yesterday
     Let my foolish heart pretend play together again
 
-    [Outro]
+    [Out]
     Play together again, again
   Recording: https://www.youtube.com/watch?v=2ScwCd-nmn4
   Date added: ''
@@ -9103,9 +9109,15 @@
 - Name: Pleading
   Key: F
   Chart: |-
-    [Intro]
+    [Int]
     1/3 4/5 1/3 4/5
     1/3 4/5 1*
+
+    [A]
+    4 4 4 4
+    1 1 1 1
+    5 5 5 5
+    1 4 1*
 
     [A]
     4 4 4 4
@@ -9119,14 +9131,14 @@
     5 5 5 5
     1 4 1 1
 
-    [Outro]
+    [Out]
     4 4 4 4
     1 1 1 1
     5 5 5 5
     1/3 4/5 1/3 4/5
     1/3 4/5 1◆
   Lyrics: |-
-    [Intro]
+    [Int]
 
     [A; steel instrumental]
 
@@ -9134,11 +9146,11 @@
 
     [B; steel instrumental]
 
-    [Outro]
+    [Out]
   Recording: https://www.youtube.com/watch?v=eydsfcJodII
   Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+  Feel: 6/8
+  Share in charts: 'TRUE'
 - Name: Please, Please Baby
   Key: E
   Chart: |-
