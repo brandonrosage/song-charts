@@ -184,6 +184,76 @@
   Date added: ''
   Feel: Straight
   Share in charts: 'TRUE'
+- Name: Ain't No Fun to Be Alone in San Antone
+  Key: Bb
+  Chart: |-
+    [Int]
+    1 1 4/3 2-
+    5 5 1 1
+
+    [V]
+    1 1 5 5
+    5 5 1 1
+    1 1 4/3 2-
+    5 5 1 1
+
+    [Ch]
+    1 1 5 5
+    5 5 1 1
+    1 1 4/3 2-
+    5 5 1 1
+
+    [Solo]
+    1 1 5 5
+    5 5 1 1
+    1 1 4/3 2-
+    5 5 1 1
+
+    [V]
+    1 1 5 5
+    5 5 1 1
+    1 1 4/3 2-
+    5 5 1 1
+
+    [Ch]
+    1 1 5 5
+    5 5 1 1
+    1 1 4/3 2-
+    5 5 1 1
+
+    [Out]
+    1 1 4/3 2-
+    5 5 1 1
+  Lyrics: |-
+    [Int]
+
+    [V]
+    It's another Saturday night down in San Antonio
+    And I looked for you from the river walk to the Alamo
+    I checked out all the hangouts but your whereabouts were unknown
+    And it ain't no fun to be alone down in San Antone
+
+    [Ch]
+    I thought you were my San Antone rose
+    And I was your hillbilly romeo
+    The way that you held me I thought you'd never go
+    But then you left me all alone down in San Antonio
+
+    [Solo]
+
+    [V]
+    You said we could meet at the cafe' Carmalita
+    So while I waited on you I had me a few margaritas
+    Now it's closin' time and they're sayin'that I'm gonna have to be movin' on
+    And it ain't no fun to be alone in San Antone
+
+    [Ch]
+
+    [Out]
+  Recording: https://www.youtube.com/watch?v=bYOWwJW5ze4
+  Date added: 10/3/2025
+  Feel: Western swing
+  Share in charts: 'TRUE'
 - Name: Ain't Nothin' Shakin'
   Key: E
   Chart: |-
@@ -3703,37 +3773,66 @@
   Share in charts: 'TRUE'
 - Name: Go Home Letter
   Key: F
-  Chart: |
+  Chart: |-
+    [Intro]
     1 1 6- 6-
     1 1 6- 6-
 
+    [V]
     1 1 6- 6-
     1 1 6- 6-
     4 4 5 5
     1 4 1 1
 
+    [Ch]
     1 1 6- 6-
     1 1 6- 6-
     1 1 6- 6-
     1 1 6- 6-
     4 4 5 5
+    1 4 1 1
+
+    [Solo]
+    6- 6- 1 1
+    6- 6- 1 1
+
+    [Ch]
+    1 1 6- 6-
+    1 1 6- 6-
+    1 1 6- 6-
+    1 1 6- 6-
+    4 4 5 5
+    1 4 1 1
+
+    [Out]
+    1 4 1 1
     1 4 1 1
   Lyrics: |-
+    [Int]
+
+    [V]
     Go home letter I wish I was you
     Go home letter I wish I was you
     Go tell my baby that I miss her so
     Go home letter, I want her to know
 
+    [Ch]
     Go, go, go little letter
     Say, say, say it won't be long
     Fly, fly, fly little letter
     Say, say, say that I'll be home
     Go tell my baby that I miss her so
     Go home letter I wish I was you
-  Recording: ''
-  Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+
+    [Solo]
+
+    [Ch]
+
+    [Out]
+  Recording: https://www.youtube.com/watch?v=UP_Useamol0
+  Date added: 10/3/2025
+  Feel: Rockabilly
+  Share in charts: 'TRUE'
 - Name: Goin Steady
   Key: C
   Chart: |-
