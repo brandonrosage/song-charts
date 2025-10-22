@@ -10262,7 +10262,7 @@
   Feel: ''
   Share in charts: 'FALSE'
 - Name: Scotch and Soda
-  Key: Eb
+  Key: E
   Chart: |-
     [Int]
     4 4- 1 7-/6-
@@ -10270,60 +10270,62 @@
 
     [V]
     4 4- 1 7-/6-
-    2- 2-/5 3 4/3
+    2- 2- 3 4/3
 
     [V]
     4 4- 1 7-/6-
-    2- 2-/5 1 1
+    2- 2- 1 1
 
-    [Chorus]
+    [Ch]
     4 4- 1 1
     2 2 1/7- 6-/5
 
     [V]
     4 4- 1 7-/6-
-    2- 2-/5 1 1
+    2- 2- 1 1
 
     [Solo]
     4 4- 1 7-/6-
     2- 2-/5 3 4/3
     4 4- 1 7-/6-
-    2- 2-/5 1 1
+    2- 2- 1 1
 
-    [Chorus]
+    [Ch]
     4 4- 1 1
     2 2 1/7- 6-/5
 
     [Out]
     4 4- 1 7-/6-
-    2- 2-/5 1 7-/6-
-    2- 2-/5 3 7-/6-
-    2- 2-/5 1* 1◆
+    2- 2- 1 7-/6-
+    2- 2- 3 7-/6-
+    2- 2- 1* 1◆
   Lyrics: |-
-    [Verse]
+    [Int]
+
+    [V]
     Scotch and soda, mud in your eye
     Baby, do I feel high?
     Oh, me, oh, my, do I feel high?
 
-    [Verse]
+    [V]
     Dry martini, jigger of gin
     Oh, what a spell you've got me in
     Oh, my, do I feel high?
 
-    [Chorus]
+    [Ch]
     People won't believe me
     They'll think that I'm just braggin'
     But I could feel the way I do
     And still be on the wagon
 
-    [Verse]
+    [V]
     All I need is one of your smiles
     Sunshine of your eyes, oh, me, oh, my
     Oh, me, oh, my, do I feel high?
 
     [Solo]
 
-    [Chorus]
+    [Ch]
     [Out]
   Recording: https://www.youtube.com/watch?v=P1SyvN07vLE
   Date added: 8/6/2025
