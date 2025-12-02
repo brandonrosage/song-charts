@@ -1567,6 +1567,52 @@
   Date added: ''
   Feel: Two-beat, swing
   Share in charts: 'TRUE'
+- Name: Blue Christmas
+  Key: E
+  Chart: |-
+    [Int]
+    5 5 1 1*
+
+    ||:
+    [A]
+    1 1 5 5
+    5 5 1 1
+    1 1 4 4
+    2 2 5 5*
+
+    [B]
+    1 1 5 5
+    5 5 1 1
+    1 1 4 4#
+    5 5 1 1
+    :|| play twice
+
+    [Out]
+    1 1 5 5
+    5 5 1 1
+    1 1 4 4#
+    5 5 1 1
+  Lyrics: |-
+    [A]
+    I'll have a blue Christmas without you
+    I'll be so blue just thinking about you
+    Decorations of red on a green Christmas tree
+    Won't be the same dear, if you're not here with me
+
+    [B]
+    And when those blue snowflakes start falling
+    That's when those blue memories start calling
+    You'll be doing all right with your Christmas of white
+    But I'll have a blue, blue Christmas
+
+    [Solo over A]
+    [Solo over B]
+
+    [Out]
+  Recording: https://www.youtube.com/watch?v=VraP3BdFQds
+  Date added: 12/1/2025
+  Feel: 4/4 shuffle
+  Share in charts: 'TRUE'
 - Name: Blue Days, Black Nights
   Key: A
   Chart: |-
@@ -6763,62 +6809,71 @@
 - Name: Jingle Bell Rock
   Key: C
   Chart: |-
-    **2/4 Western swing**
+    [Int]
+    * * * ↗
 
-    [Verse 1]
-    1 1 1-1#dim-2m 5
-    2m-5 2m-5 2m-5 5
+    [V]
+    1 1 1/1#dim/2- 5
+    2-/5 2-/5 2-/5 5
 
-    [Verse 2]
-    1 1 1-1#dim-2m 5
-    2m-5 2m-5 2m-5 1
+    [V]
+    1 1 1/1#dim/2- 5
+    2-/5 2-/5 2-/5 1
 
-    [Bridge] **4/4 Western swing**
-    4 4m 1 1
-    2 2 5*
+    [Br] **4/4 shuffle**
+    4 4- 1 1
+    2 2 5* ↗
 
-    [Verse 3]
+    [V]
     1 1 1 6
-    4 4m 1-5 1
-    (repeating refrain outro)
-    4 4m 2-5 2-5 
-    2-5 1 1
-  Lyrics: |-
-    [Intro, guitar melody]
+    4 4- 2-/5 1
 
-    [Verse 1]
+    [Solo]
+    1 1 1/1#dim/2- 5
+    2-/5 2-/5 2-/5 1
+
+    [Br] **4/4 shuffle**
+    4 4- 1 1
+    2 2 5* ↗
+
+    [Out]
+    1 1 1 6
+    4 4- 2/5 2/5 
+    2/5 1 1
+  Lyrics: |-
+    [V]
     Jingle bell, jingle bell, jingle bell rock
     Jingle bells swing and jingle bells ring
     Snowin' and blowin' up bushels of fun
     Now the jingle hop has begun
 
-    [Verse 2]
+    [V]
     Jingle bell, jingle bell, jingle bell rock
     Jingle bells chime in jingle bell time
     Dancin' and prancin' in Jingle Bell Square
     In the frosty air
 
-    [Bridge]
+    [Br]
     What a bright time, it's the right time
     To rock the night away
     Jingle bell time is a swell time
     To go glidin' in a one-horse sleigh
 
-    [Verse 3]
+    [V]
     Giddy-up jingle horse, pick up your feet
     Jingle around the clock
     Mix and a-mingle in the jinglin' feet
     That's the jingle bell rock
 
-    [Instrumental over Verse 2]
+    [Solo]
 
-    [Bridge]
+    [Br]
 
-    [Verse 3, repeat refrain]
+    [Out]
   Recording: https://www.youtube.com/watch?v=4EBibUkua_U
   Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+  Feel: 2/4 Western swing
+  Share in charts: 'TRUE'
 - Name: Jukebox Charlie
   Key: Bb
   Chart: |-
@@ -9834,6 +9889,56 @@
   Date added: 7/15/2024
   Feel: ''
   Share in charts: 'FALSE'
+- Name: Rockin' Around the Christmas Tree
+  Key: C
+  Chart: |-
+    [Int]
+    1 6- 4 5
+
+    [A]
+    1 1 5 5
+    5 5 5 1
+    1 1 5 5
+    5 5 5 1
+
+    [B]
+    4 4 3- 3-
+    6- 6- 2* *
+    1 1 5 5
+    5 5 5 1
+
+    [Solo]
+    1 1 5 5
+    5 5 5 1
+    1 1 5 5
+    5 5 5 1
+
+    [Out]
+    4 4 3- 3-
+    6- 6- 2* *
+    1 1 5 5
+    5 5 5/6 6#/7
+    1 6- 4 1
+  Lyrics: |-
+    [A]
+    Rockin' around the Christmas tree at the Christmas party hop
+    Mistletoe hung where you can see every couple tries to stop
+    Rockin' around the Christmas tree, let the Christmas spirit ring
+    Later we'll have some pumpkin pie and we'll do some caroling
+
+    [B]
+    You will get a sentimental feeling when you hear
+    Voices singing, let's be jolly, deck the halls with boughs of holly
+    Rockin' around the Christmas tree, have a happy holiday
+    Everyone dancin' merrily in the new old-fashioned way
+
+    [Solo over A]
+
+    [Out]
+  Recording: https://www.youtube.com/watch?v=g7QPZti18Dk
+  Date added: 12/1/2025
+  Feel: ''
+  Share in charts: 'TRUE'
 - Name: Roly Poly
   Key: Ab
   Chart: |-
@@ -14446,45 +14551,61 @@
 - Name: White Christmas
   Key: C
   Chart: |-
-    **laid-back Western swing feel**
+    [Int]
+    1 1 4 4-
+    1/1#dim 2-/5 1/1#dim 2-/5
 
-    [Intro]
-    1 1 4 4m
-    1 5 1 1
-
-    [Verse 1]
-    1 1 2m 5
+    [A]
+    1 1 2- 5
     4 5 1 1
-    1 1 4 4m
-    1 2m 5 5
+    1 1 4 4-
+    1 6/2- 5 5
 
-    [Verse 2]
-    1 1 2m 5
+    [B]
+    1 1 2- 5
     4 5 1 1
-    1 1 4 4m
-    1 2m-5 1 1
+    1 1 4 4-
+    1/1#dim 2-/5 1/1#dim 2-/5
+
+    [Solo]
+    1 1 2- 5
+    4 5 1 1
+    1 1 4 4-
+    1 6/2- 5 5
+    ** modulate up a half step**
+
+    [B]
+    1 1 2- 5
+    4 5 1 1
+    1 1 4 4-
+    1/1#dim 2-/5 1 5#-
+
+    [Out]
+    1/1#dim 2-/5◆ 5#-◆ 1◆
   Lyrics: |-
-    [Intro]
+    [Int]
 
-    [Verse 1]
+    [A]
     I'm dreaming of a white Christmas
     Just like the ones I used to know
     Where the tree tops glisten, and children listen
     To hear sleigh bells in the snow
 
-    [Verse 2]
+    [B]
     I'm dreaming of a white Christmas
     With every Christmas card I write
     May your days be merry and bright
     And may all your Christmas' be white
 
-    [Solo over Verse 1, then module up a 1/2 step]
+    [Solo over A, then module up a 1/2 step]
 
-    [Verse 2, repeat refrain]
+    [B]
+
+    [Out]
   Recording: https://www.youtube.com/watch?v=dwo6VFNR6Ko
   Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+  Feel: laid-back Western swing feel
+  Share in charts: 'TRUE'
 - Name: Why Me
   Key: D
   Chart: |-
