@@ -5291,6 +5291,78 @@
   Date added: ''
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
+- Name: I Fall to Pieces
+  Key: G
+  Chart: |-
+    [Int]
+    1♦ 7-♦ 6#♦ 6-♦
+    4 5 1 1
+
+    [V]
+    1 4 5 5
+    4 5 1 1
+    1 4 5 5
+    4 5 1 1
+
+    [Ch]
+    1 1 4 4
+    5 5 4/1 1
+    4 5 1 1
+    4 5 1 1
+
+    [Solo]
+    1♦ 7-♦ 6#♦ 6-♦
+    4 5 1 5
+    1♦ 7-♦ 6#♦ 6-♦
+    4 5 1 1
+
+    [V]
+    1 4 5 5
+    4 5 1 1
+    1 4 5 5
+    4 5 1 1
+
+    [Ch]
+    1 1 4 4
+    5 5 4/1 1
+    4 5 1 1
+    4 5 1 1
+
+    [Tag]
+    4 5 1 1
+  Lyrics: |-
+    [V]
+    I fall to pieces
+    Each time I see you again
+    I fall to pieces
+    How can I be just your friend?
+
+    [Ch]
+    You want me to act like we've never kissed
+    You want me to forget, pretend we've never met
+    And I've tried and I've tried, but I haven't yet
+    You walk by and I fall to pieces
+
+    [Solo]
+
+    [V]
+    I fall to pieces
+    Each time someone speaks your name
+    I fall to pieces
+    Time only adds to the flame
+
+    [Ch]
+    You tell me to find someone else to love
+    Someone who love me too, the way you used to do
+    But each time I go out with someone new
+    You walk by and I fall to pieces
+
+    [Tag]
+    You walk by and I fall to pieces
+  Recording: https://www.youtube.com/watch?v=gayAMQ7PILQ
+  Date added: 12/8/2025
+  Feel: 4/4 shuffle
+  Share in charts: 'TRUE'
 - Name: If That's the Way it's Gotta Be
   Key: C
   Chart: |-
@@ -9577,52 +9649,58 @@
 - Name: Pretty Paper
   Key: D
   Chart: |-
-    [Chorus]
+    [Ch]
     1 1dim 5 5
     5 5 1 1
     1 1 4 4
     1 5 1 1
 
-    [Verse 1]
+    [V]
     1 5 1 1
     1 5 1 1
     1 1 4 4
     2 2 5 5
 
-    [Verse 2]
+    [V]
     1* 5* 1 1
     1 5 1 1
     1 1 4 4
     1 5 1 1
 
-    [Outro]
-    1 5 4 4 1
+    [Ch]
+    1 1dim 5 5
+    5 5 1 1
+    1 1 4 4
+    1 5 1 1
+
+    [Out]
+    1 5 4◆ ◆ 1
   Lyrics: |-
-    [Chorus]
+    [Ch]
     Pretty paper, pretty ribbons of blue
     Wrap your presents to your darling from you
     Pretty pencils to write "I love you"
     Pretty paper, pretty ribbons of blue
 
-    [Verse 1]
+    [V]
     Crowded street, busy feet hustle by him
     Downtown shoppers, Christmas is nigh
     There he sits all alone on the sidewalk
     Hoping that you won't pass him by
 
-    [Verse 2]
+    [V]
     Should you stop, better not, much too busy
     You're in a hurry, my how time does fly
     In the distance the ringing of laughter
     And in the midst of the laughter he cries
 
-    [Chorus]
+    [Ch]
 
-    [Outro]
+    [Out]
   Recording: https://www.youtube.com/watch?v=fPnf9vWRYBk
-  Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+  Date added: 12/8/2025
+  Feel: Waltz
+  Share in charts: 'TRUE'
 - Name: Pride
   Key: D
   Chart: |-
@@ -10341,8 +10419,8 @@
 - Name: Santa Claus is Back in Town
   Key: A
   Chart: |-
-    [Turnaround]
-    1* 4* 1*
+    [Int]
+    1◆ 4◆ 1◆ 5
 
     [A]
     1 4 1 1
@@ -10350,51 +10428,50 @@
     5 5 1 1
 
     [B]
-    1* 1* 1* 1
+    1◆ 1◆ 1◆ 1
     4 4 1 1
     5 5 1 1
+
+    [Solo]
+    1◆ 4◆ 1◆ 5
+    4 4 1 1
+    5 5 1 1
+
+    [B]
+    1◆ 1◆ 1◆ 1
+    4 4 1 1
+    5 5 1 1
+
+    [Out]
+    1◆ 4◆ 1◆ 1
   Lyrics: |-
-    **blues shuffle**
-    [Turnaround]
+    [Int]
     Christmas...Christmas...Christmas...
 
     [A]
-    Well, it's Christmas time, pretty baby
-    The snow is falling on the ground
-    Well, it's Christmas time, pretty baby
-    The snow is falling down
-    You be a real good, little girl
-    Santa Claus is back in town
-
-    [Bridge]
-    Got no sleigh with reindeer
-    No sack on my back
-    You're gonna see me comin'
-    In a big black Cadillac
-    It's Christmas time, pretty baby
-    And the snow is falling on the ground
-    Well, you be a real good, little baby
-    Santa Claus is back in town
-
-    [Turnaround]
-
-    [B, instrumental]
+    Well, it's Christmas time, pretty baby. The snow is falling on the ground
+    Well, it's Christmas time, pretty baby. The snow is falling down
+    You be a real good, little girl. Santa Claus is back in town
 
     [B]
-    Hang up your pretty stockings
-    And turn off the light
-    Santa Claus is comin'
-    Down your chimney tonight
-    Oh-oh, it's Christmas time, pretty baby (Christmas, Christmas)
-    And the snow is falling on the ground (Christmas, Christmas)
-    Well, you be a real good, little baby
-    Santa Claus is back in town
+    Got no sleigh with reindeer, no sack on my back
+    You're gonna see me comin' in a big black Cadillac
+    It's Christmas time, pretty baby. And the snow is falling on the ground
+    Well, you be a real good, little baby. Santa Claus is back in town
 
-    [Turnaround]
+    [Solo]
+
+    [B]
+    Hang up your pretty stockings and turn off the light
+    Santa Claus is comin' down your chimney tonight
+    Oh-oh, it's Christmas time, pretty baby, and the snow is falling on the ground
+    Well, you be a real good, little baby. Santa Claus is back in town
+
+    [Out]
   Recording: https://www.youtube.com/watch?v=Ae7CtryWCkc
   Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+  Feel: Blues shuffle
+  Share in charts: 'TRUE'
 - Name: Santa Claus is Comin' (In a Boogie Woogie Choo Choo Train)
   Key: A
   Chart: |
