@@ -10928,6 +10928,70 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
+- Name: She's Actin' Single (I'm Drinkin' Doubles)
+  Key: D
+  Chart: |-
+    [Int]
+    1 1 1 1
+
+    [V]
+    1/4 5/1 4 1
+    1/4 5/1 2 5
+    1/4 5/1 4 1
+    1/4 5/6 4/5 1
+
+    [Ch]
+    4 4 1 1
+    2- 4 1 1
+    4 4 1 1
+    2- 4 1 1 **modulate up full step**
+
+    [V]
+    1/4 5/1 4 1
+    1/4 5/1 2 5
+    1/4 5/1 4 1
+    1/4 5/6 4/5 1
+
+    [Ch]
+    4 4 1 1
+    2- 4 1 1
+    4 4 1 1
+    2- 4 1 1
+
+    [Ch]
+    4 4 1 1
+    2- 4 1 1
+    4 4 1 1
+    2- 4 1 1
+
+    [Tag]
+    2- 4 1 1
+  Lyrics: |-
+    [V]
+    I've seen men look at her before aand they think, I don't see
+    I'd like to think it makes me proud, but I'm only fooling me
+    I know she'll be lookin' back the minute I'm not there
+    While she pours herself on some stranger, I pour myself a drink somewhere
+
+    [Ch]
+    She's actin' single, I'm drinkin' double
+    I hide my pain, I drown my troubles
+    My heart is breaking, like the tiny bubbles
+    She's actin' single, I'm drinkin' doubles
+
+    [V]
+    I know all she plans to do, but I don't know where or when
+    If I ask who that stranger was, she'll just say, "an old friend"
+    I'm not weak, I tell myself I stay because I'm strong
+    The truth is I'm not man enough, to stop her from doing me wrong
+
+    [Ch]
+    [Ch]
+    [Tag]
+  Recording: https://www.youtube.com/watch?v=ML6w8RJP7y0
+  Date added: 1/9/2026
+  Feel: Straight
+  Share in charts: 'FALSE'
 - Name: She's All I Got
   Key: Bb
   Chart: |-
