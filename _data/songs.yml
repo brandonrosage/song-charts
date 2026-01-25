@@ -3289,7 +3289,60 @@
   Share in charts: 'TRUE'
 - Name: Drown in My Own Tears
   Key: ''
-  Chart: ''
+  Chart: |-
+    [Int]
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3- 6-/5 4
+    1 4/5 1 4/1
+
+    [V]
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3 6- 6-
+    2 2 5 5
+
+    [V]
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3- 6-/5 4
+    1 4/5 1 4/1
+
+    [Br]
+    4 4 4dim 4dim
+    1 5 1 1
+    4 4 4dim 4dim
+    2 2 5 5
+
+    [V]
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3- 6-/5 4
+    1 4/5 1 4/1
+
+    [Solo]
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3 6- 6-
+    2 2 5 5
+
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3- 6-/5 4
+    1 4/5 1 4/1
+
+    [Br]
+    4 4 4dim 4dim
+    1 5 1 1
+    4 4 4dim 4dim
+    2 2 5 5
+
+    [Out]
+    1 5 1 1
+    4 4 4dim 4dim
+    1 3- 6-/5 4
+    1 4 1 4
+    1 4 1/4 5 1 4/1
   Lyrics: |-
     It brings a tear into my eyes
     When I begin to realize
