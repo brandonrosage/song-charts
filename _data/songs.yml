@@ -3288,13 +3288,13 @@
   Feel: ''
   Share in charts: 'TRUE'
 - Name: Drown in My Own Tears
-  Key: ''
+  Key: C
   Chart: |-
     [Int]
     1 5 1 1
     4 4 4dim 4dim
-    1 3- 6-/5 4
-    1 4/5 1 4/1
+    1 3 6-/5 4/4dim
+    1/6 4/5 1/4 1/5
 
     [V]
     1 5 1 1
@@ -3305,8 +3305,8 @@
     [V]
     1 5 1 1
     4 4 4dim 4dim
-    1 3- 6-/5 4
-    1 4/5 1 4/1
+    1 3 6-/5 4/4dim
+    1/6 4/5 1/4 1*
 
     [Br]
     4 4 4dim 4dim
@@ -3317,8 +3317,8 @@
     [V]
     1 5 1 1
     4 4 4dim 4dim
-    1 3- 6-/5 4
-    1 4/5 1 4/1
+    1 3 6-/5 4/4dim
+    1/6 4/5 1/4 1*
 
     [Solo]
     1 5 1 1
@@ -3328,8 +3328,8 @@
 
     1 5 1 1
     4 4 4dim 4dim
-    1 3- 6-/5 4
-    1 4/5 1 4/1
+    1 3 6-/5 4/4dim
+    1/6 4/5 1/4 1*
 
     [Br]
     4 4 4dim 4dim
@@ -3340,21 +3340,23 @@
     [Out]
     1 5 1 1
     4 4 4dim 4dim
-    1 3- 6-/5 4
+    1 3 6-/5 4/4dim
     1 4 1 4
-    1 4 1/4 5 1 4/1
+    1 4 1/6 4/5 1/4◆ 1◆
   Lyrics: |-
+    [V]
     It brings a tear into my eyes
     When I begin to realize
     I've cried so much since you've been gone
     I guess I'll drown in my own tears
 
+    [V]
     I sit and cry just like a child
     My pouring tears are runnin' wild
     If you don't think you'll be home soon
     I guess I'll drown in my own tears
 
-    [B]
+    [Br]
     I know it's true into each life
     Oh, some rain, rain must pour
     I'm so blue here without you
@@ -3368,7 +3370,7 @@
 
     [Solo]
 
-    [B]
+    [Br]
 
     [V]
 
