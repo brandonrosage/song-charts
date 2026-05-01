@@ -9718,17 +9718,19 @@
 - Name: Pennies from Heaven
   Key: G
   Chart: |-
-    [Int]
+    [Int] **4/4**
+    1 1/3 4 5
+    1 1 4 4
     4 4- 3- 6
     2- 4/5 1 5
 
-    [A] **guitar and bass**
+    [A] **2/4**
     1 1/3 4 5
     1 1/3 4 5
     1 1 4 4
     2 2 5 5
 
-    [B] **full band**
+    [B]
     1 1/3 4 5
     1 1 4 4
     4 4- 3- 6
@@ -9751,13 +9753,13 @@
     1 1 4 4
     2 2 5 5
 
-    [B] **4/4**
+    [B]
     1 1/3 4 5
     1 1 4 4
     4 4- 3- 6
     2- 4/5 1 5
 
-    [Tag]
+    [Tag] **4/4**
     2- 4/5 1 1
   Lyrics: |-
     [A]
@@ -9771,7 +9773,7 @@
     If you want the things you love, you must have showers
     So, when you hear it thunder, don't run under a tree
     There'll be pennies from heaven for you and me
-  Recording: https://www.youtube.com/watch?v=DF_yCBHfg5k
+  Recording: https://youtu.be/p4YwDGLVmj8?si=5usqFlv4liGeYNkk
   Date added: 2/7/2026
   Feel: Western swing
   Share in charts: 'TRUE'
