@@ -8566,6 +8566,36 @@
   Date added: ''
   Feel: 4/4 blues shuffle
   Share in charts: 'TRUE'
+- Name: Misery and Gin
+  Key: ''
+  Chart: |-
+    [V]
+    1 1 4 2
+    5 5 1 5/4#/4/2
+  Lyrics: |-
+    Memories and drinks don't mix too well
+    Jukebox records don't play those wedding bells.
+    Looking at the world through the bottom of a glass
+    All I see is a man who's fading fast.
+
+    Tonight I need that woman again
+    What I'd give for my baby to just walk in.
+    Sit down beside me and say its alright
+    Take me home and make sweet love to me tonight.
+
+    [Ch]
+    But here I am again mixing misery and gin
+    Sitting with all my friends and talking to myself.
+    I look like I'm having a good time but any fool can tell
+    That this honky tonk heaven really makes you feel, like hell.
+    I light a lonely woman's cigarette
+    We start talking about what we wanna forget.
+    Her life story and mine are the same
+    We both lost someone and only have ourselves to blame.
+  Recording: ''
+  Date added: ''
+  Feel: ''
+  Share in charts: 'FALSE'
 - Name: Moanin' the Blues
   Key: G
   Chart: |
@@ -13617,7 +13647,7 @@
     [A]
     1 1 5 5
     5 5 1 1
-    1 17 4 4
+    1 1 4 4
     1 5 1 1
 
     [B]
@@ -13659,7 +13689,7 @@
   Key: ''
   Chart: |-
     [Intro]
-    1 2m-5 4 5
+    1 2-/5 4 5
 
     [A]
     1 1 4 2m
@@ -13755,6 +13785,68 @@
   Recording: https://www.youtube.com/watch?v=OdS4oB-KE00
   Date added: ''
   Feel: 4/4 shuffle
+  Share in charts: 'TRUE'
+- Name: Things Have Gone to Pieces
+  Key: D
+  Chart: |-
+    [Int]
+    1 5 1 1
+
+    [V]
+    1 5 1 1
+    1 5 1 1
+    4 4 1 6-
+    1 5 1 1
+
+    [Ch]
+    5 5 1 1
+    4 1 5 5
+    4 4 1 4
+    1 5 1 1
+
+    [Solo]
+    1 5 1 1
+    1 5 1 1
+    4 4 1 6-
+    1 5 1 1
+
+    [V]
+    1 5 1 1
+    1 5 1 1
+    4 4 1 6-
+    1 5 1 1
+
+    [Ch]
+    5 5 1 1
+    4 1 5 5
+    4 4 1 4
+    1 5◆  1
+  Lyrics: |-
+    [V]
+    The faucet started drippin' in the kitchen
+    And last night your picture fell down from the wall
+    Today the boss said sorry, I can't use you anymore
+    And tonight the light bulb went out in the hall
+
+    [Ch]
+    Things have gone to pieces since you left me
+    Nothing turns out, half-right now it seems
+    There ain't nothing in my pocket,
+    But three nickels and a [4] dime
+    But I'm holding to the pieces of my dream
+
+    [Solo]
+
+    [V]
+    Somebody threw a baseball through my window
+    And the arm fell off my favorite chair again
+    The man called me today and said he'd haul my things away
+    If I didn't get my payments made by ten
+
+    [Ch]
+  Recording: https://www.youtube.com/watch?v=VdtQshxsZ24
+  Date added: 5/13/2026
+  Feel: 2/4 shuffle
   Share in charts: 'TRUE'
 - Name: This Cold War With You
   Key: F
