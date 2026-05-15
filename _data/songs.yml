@@ -923,24 +923,47 @@
   Date added: ''
   Feel: 2/4 shuffle
   Share in charts: 'TRUE'
-- Name: Any Old Time (George Strait)
+- Name: Any Old Time
   Key: G
-  Chart: |-
-    [Intro]
+  Chart: |
+    [Int]
     1 4 1 6
     2 5 1 5
 
-    [Verse]
+    [V]
     1 4 1 1
     2 2 5 5
     1 4 1 6
     2 5 1 1
 
-    [Chorus]
+    [Ch]
     3 3 6 6
     5# 5# 5 5#/5*
     1 4 3 6
     2 5 1 1
+
+    [Solo]
+    1 4 1 1
+    2 2 5 5
+    1 4 1 6
+    2 5 1 1
+
+    1 4 1 1
+    2 2 5 5
+    1 4 1 6
+    2 5 1 1
+
+    [V]
+    1 4 1 1
+    2 2 5 5
+    1 4 1 6
+    2 5 1 1
+
+    [Ch]
+    3 3 6 6
+    5# 5# 5 5#/5*
+    1 4 3 6
+    2 5 1* 1*
   Lyrics: |-
     [Intro]
 
@@ -967,8 +990,8 @@
     [Chorus]
   Recording: https://www.youtube.com/watch?v=iPI9WxRgB14
   Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+  Feel: Western swing
+  Share in charts: 'TRUE'
 - Name: Any Old Time (Wade Ray)
   Key: D
   Chart: |-
@@ -8567,17 +8590,41 @@
   Feel: 4/4 blues shuffle
   Share in charts: 'TRUE'
 - Name: Misery and Gin
-  Key: ''
+  Key: F
   Chart: |-
     [V]
-    1 1 4 2
+    1 1 4 2-
     5 5 1 5/4#/4/2
+
+    [V]
+    1 1 4 2-
+    5 5 1 5/4#/4/2
+
+    [Ch]
+    1 4/2- 5 1
+    4/3 6-/5 4
+    1 2-/5 1 5/4#/4/2
+
+    [Solo]
+    1 1 4 2-
+    5 5 1 5/4#/4/2
+
+    [V]
+    1 1 4 2-
+    5 5 1 5/4#/4/2
+
+    [Ch]
+    1 4/2- 5 1
+    4/3 6-/5 4
+    1 2-/5◆ 1 5/4#/4/2 1◆
   Lyrics: |-
+    [V]
     Memories and drinks don't mix too well
     Jukebox records don't play those wedding bells.
     Looking at the world through the bottom of a glass
     All I see is a man who's fading fast.
 
+    [V]
     Tonight I need that woman again
     What I'd give for my baby to just walk in.
     Sit down beside me and say its alright
@@ -8588,14 +8635,20 @@
     Sitting with all my friends and talking to myself.
     I look like I'm having a good time but any fool can tell
     That this honky tonk heaven really makes you feel, like hell.
+
+    [Solo]
+
+    [V]
     I light a lonely woman's cigarette
     We start talking about what we wanna forget.
     Her life story and mine are the same
     We both lost someone and only have ourselves to blame.
-  Recording: ''
-  Date added: ''
-  Feel: ''
-  Share in charts: 'FALSE'
+
+    [Ch]
+  Recording: https://youtu.be/trtI5EfV29M?si=1CuS2zKM5OFRYDni
+  Date added: 5/14/2026
+  Feel: Straight
+  Share in charts: 'TRUE'
 - Name: Moanin' the Blues
   Key: G
   Chart: |
