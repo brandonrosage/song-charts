@@ -7826,6 +7826,73 @@
   Date added: ''
   Feel: ''
   Share in charts: 'TRUE'
+- Name: Lonely Street
+  Key: B
+  Chart: |-
+    [Int]
+    */ * 5 1
+
+    [V]
+    1 1 4 1
+    4 1 5 5/ 4 1
+
+    [V]
+    1 1 4 1
+    4 1 5 5/ 4 1
+
+    [Br]
+    4 4 1 1
+    4 4 1 5 5
+
+    [V]
+    1 1 4 1
+    4 1 5 5/ 4 1
+
+    [Solo]
+    1 1 4 1
+    4 1 5 5/ 4 1
+    1 1 4 1
+    4 1 5 5/ 4 1
+
+    [Br]
+    4 4 1 1
+    4 4 1 5 5
+
+    [V]
+    1 1 4 1
+    4 1 5 5/ 4 1
+  Lyrics: |-
+    [V]
+    I'm looking for that lonely street
+    I've got a sad, sad tale to tell
+    I need a place to go and weep
+    Where's this place called Lonely Street?
+
+    [V]
+    A place where there's just loneliness
+    Where dim lights bring forgetfulness
+    Where broken dreams and memories meet
+    Where's this place called Lonely Street?
+
+    [Br]
+    Maybe on that lonely street there's someone such as I
+    Who came to bury broken dreams and watch an old love die
+
+    [V]
+    A place where there's just loneliness
+    Where dim lights bring forgetfulness
+    Where broken dreams and memories meet
+    Where's this place called Lonely Street?
+
+    [Solo]
+
+    [Br]
+
+    [V]
+  Recording: https://www.youtube.com/watch?v=z3DDBASCG7Q
+  Date added: 7/8/2026
+  Feel: 4/4 shuffle
+  Share in charts: 'FALSE'
 - Name: Lone Star Beer and Bob Wills Music
   Key: E
   Chart: |-
