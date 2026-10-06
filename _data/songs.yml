@@ -1149,6 +1149,53 @@
   Date added: 5/13/2025
   Feel: Ballad
   Share in charts: 'FALSE'
+- Name: Are You Teasing Me
+  Key: G
+  Chart: |-
+    [Int]
+    1 1 5 5
+    5 5 1 1
+
+    ||:
+    [A]
+    1 1 5 5
+    5 5 1 1
+    1 1 5 5
+    5 5 1 1
+
+    [B]
+    4 4 1 1
+    4 4 5 5
+    1 1 5 5
+    5 5 1 1
+    :|| repeat twice
+  Lyrics: |-
+    When we're all alone, dear, and you're in your arms
+    Are you teasing me?
+
+    When you're telling me how you thrill to my charms
+    Are you teasing me?
+
+    Are you untrue, dear,  when I'm not with you?
+    When we're apart are you free?
+
+    Please tell me, darling, while our love is still young
+    Are you teasing me?
+
+    You say that my kiss
+    Sends your heart in up world
+    Are you teasing me?
+    And that you'll be mine
+    Till the end of the world
+    Are you teasing me?
+    You tell me my love makes my life complete
+    And tight in my arms you wanna be
+    Tell me, darling, while our love is still young
+    Are you teasing me?
+  Recording: https://www.youtube.com/watch?v=QoO_TuMl13Y
+  Date added: 10/5/2026
+  Feel: Swing
+  Share in charts: 'TRUE'
 - Name: A World So Full of Love
   Key: C
   Chart: |-
@@ -5625,6 +5672,53 @@
   Date added: 12/8/2025
   Feel: 4/4 shuffle
   Share in charts: 'TRUE'
+- Name: I Feel Good All Over
+  Key: F
+  Chart: |-
+    [Int]
+    1 1 1 1
+
+    [V]
+    1 1 6- 6-
+    1 1 4 4
+    1 5* 1 1*
+
+    [V]
+    1 1 6- 6-
+    1 1 4 4
+    1 5* 1 1*
+
+    [Br]
+    4 4 1 1
+    2 2 5*
+
+    [V]
+    1 1 6- 6-
+    1 1 4 4
+    1 5* 1 1*
+  Lyrics: |-
+    [V]
+    I feel good all over, I feel good all over
+    I get a thrill when I kiss your sweet lips that travel down right to my toe tips
+    Ooh, I feel good all over
+
+    [V]
+    I want to jump and shout it, tell the world all about it
+    You make me feel like I own a million, I wouldn't trade it for a hundred million
+    Ooh, I feel good all over
+
+    [Br]
+    Watch it baby when you walk that walk, be careful to whom you talk
+    Look out for those double dealers, for this whole world got a whole lot of stealers
+
+    [V]
+    I feel good all over, I'm walking in sweet clover
+    I can't explain how your love affects me, I only know that it sure upsets me
+    Ooh, I feel good all over
+  Recording: https://www.youtube.com/watch?v=J28VGP0JaOY
+  Date added: 10/5/2026
+  Feel: Swing blues
+  Share in charts: 'TRUE'
 - Name: If That's the Way it's Gotta Be
   Key: C
   Chart: |-
@@ -5948,6 +6042,62 @@
   Date added: ''
   Feel: ''
   Share in charts: 'FALSE'
+- Name: I Hate You
+  Key: C
+  Chart: |-
+    [Int]
+    4 1 5 1 1
+
+    [V]
+    1 1 4 4
+    1 6 2 5
+    1 1 1 4 4
+    4 1 5 1 1
+
+    [V]
+    1 1 4 4
+    1 6 2 5
+    1 1 1 4 4
+    4 1 5 1 1
+
+    [Br]
+    5 5 4 1
+    2 2 5 5
+
+    [V]
+    1 1 4 4
+    1 6 2 5
+    1 1 1 4 4
+    4 1 5 1 1
+
+    [Tag]
+    4 1 5 1 1
+  Lyrics: |-
+    [V]
+    I hate you, Oh how I try to hate you
+    I get bitter every time you run through my mind
+    Between love and hate there's a little thin line
+    And I'm trying to hate you right out of my mind
+
+    [V]
+    I hate you, each time I try I hate you
+    Little drops of anger fall from my eyes
+    You said that you love me, tell me how could this fool be so blind
+    And I'm trying to hate you right out of my mind
+
+    [Br]
+    Oh ain't it funny how a heart that loved you one time
+    Could be filled with so much anger for you and your kind
+
+    [V]
+    I hate you, Oh how I try to hate you
+    I get bitter every time you run through my mind
+    Between love and hate there's a little thin line
+    And I'm trying to hate you right out of my mind
+  Recording: https://www.youtube.com/watch?v=HdhD2gSjjTs
+  Date added: 10/5/2026
+  Feel: 2/4
+  Share in charts: 'TRUE'
 - Name: I Hear You Talkin'
   Key: Bb
   Chart: |-
