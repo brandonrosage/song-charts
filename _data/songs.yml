@@ -346,7 +346,7 @@
   Feel: 4/4 shuffle
   Share in charts: 'FALSE'
 - Name: All of Me
-  Key: G
+  Key: Bb
   Chart: |-
     [Int]
     4 4- 3 6
@@ -367,7 +367,7 @@
     :|| play x3
 
     [Tag]
-    2- 5 1 5
+    2- 5 1 1
   Lyrics: |-
     [A]
     All of me. Why not take all of me?
@@ -5158,6 +5158,75 @@
   Recording: https://music.youtube.com/watch?v=2G_2RdxmQNY
   Date added: ''
   Feel: Straight
+  Share in charts: 'TRUE'
+- Name: Here We Go Again
+  Key: Bb
+  Chart: |-
+    [V]
+    1 1 1 1
+    4 4 4 4
+    5 5 5 5
+    1 1# 2*/5♦
+
+    [V]
+    1 1 1 1
+    4 4 4 4
+    5 5 5 5
+    1 4 1 1
+
+    [Br]
+    4 4 4 4
+    1 1 1 1
+    2 2 2 2
+    5 5 5 5♦
+
+    [V]
+    1 1 1 1
+    4 4 4 4
+    5 5 5 5
+    1 4 1* 5♦
+
+    [Solo]
+    1 1 1 1
+    4 4 4 4
+    5 5 5 5
+    1 4 1* 5♦
+
+    [V]
+    1 1 1 1
+    4 4 4 4
+    5 5 5 5
+    1 4 1 1
+
+    [Out]
+    5 5 5♦ 
+    4♦ 1♦
+  Lyrics: |-
+    [V]
+    Here we go again
+    She's back in town again
+    I'll take her back again
+    One more time
+
+    [V]
+    Here we go again
+    The phone will ring again
+    I'll be her fool again
+    One more time
+
+    [Br]
+    I've been there before
+    And I'll try it again
+    But any fool knows that there's no way to win
+
+    [V]
+    Here we go again
+    She'll break my heart again
+    I'll play the part again
+    One more time
+  Recording: https://www.youtube.com/watch?v=yNDUU4gHCuE
+  Date added: 11/6/2026
+  Feel: 6/8 blues
   Share in charts: 'TRUE'
 - Name: Holding Things Together
   Key: C
